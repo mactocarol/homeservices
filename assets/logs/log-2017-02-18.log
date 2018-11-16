@@ -1,0 +1,647 @@
+ERROR - 02/18/2017 11:01 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:01 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:01 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:01 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:16 am --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `location_name`, `city`, `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/18/2017 11:31 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:01 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:01 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:32 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:32 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:32 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:32 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:02 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: 18/index
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:33 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:34 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:34 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:35 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:35 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:35 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487397948, '__ci_last_regenerate|i:1487397948;')
+ERROR - 02/18/2017 11:35 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:39 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:39 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:39 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398169, '__ci_last_regenerate|i:1487398169;')
+ERROR - 02/18/2017 11:39 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:09 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:09 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:39 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:39 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:39 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398181, '__ci_last_regenerate|i:1487398181;')
+ERROR - 02/18/2017 11:39 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:09 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:09 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:09 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:40 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:40 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:40 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398243, '__ci_last_regenerate|i:1487398243;')
+ERROR - 02/18/2017 11:40 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:10 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:40 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:40 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:40 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398253, '__ci_last_regenerate|i:1487398253;')
+ERROR - 02/18/2017 11:40 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:10 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:11 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:11 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:41 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:41 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:41 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398319, '__ci_last_regenerate|i:1487398319;')
+ERROR - 02/18/2017 11:41 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:12 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:12 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:42 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:42 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:42 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398324, '__ci_last_regenerate|i:1487398324;')
+ERROR - 02/18/2017 11:42 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:12 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:12 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:12 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 11:43 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398388, '__ci_last_regenerate|i:1487398388;')
+ERROR - 02/18/2017 11:43 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 11:43 am --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:43 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 11:43 am --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487398394, '__ci_last_regenerate|i:1487398394;')
+ERROR - 02/18/2017 11:43 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:13 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:18 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:18 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400495, '__ci_last_regenerate|i:1487400494;')
+ERROR - 02/18/2017 12:18 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:48 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:48 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:48 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:20 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:20 pm --> Severity: Error --> Call to undefined function basae_url() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 167
+ERROR - 02/18/2017 12:20 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400649, '__ci_last_regenerate|i:1487400649;')
+ERROR - 02/18/2017 12:20 pm --> Severity: Warning --> Cannot modify header information - headers already sent /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:20 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:20 pm --> Severity: Error --> Call to undefined function basae_url() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 167
+ERROR - 02/18/2017 12:20 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400652, '__ci_last_regenerate|i:1487400652;')
+ERROR - 02/18/2017 12:20 pm --> Severity: Warning --> Cannot modify header information - headers already sent /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Severity: Error --> Call to undefined function basae_url() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 167
+ERROR - 02/18/2017 12:21 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400663, '__ci_last_regenerate|i:1487400663;')
+ERROR - 02/18/2017 12:21 pm --> Severity: Warning --> Cannot modify header information - headers already sent /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Severity: Error --> Call to undefined function basae_url() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 167
+ERROR - 02/18/2017 12:21 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400669, '__ci_last_regenerate|i:1487400669;')
+ERROR - 02/18/2017 12:21 pm --> Severity: Warning --> Cannot modify header information - headers already sent /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:21 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400706, '__ci_last_regenerate|i:1487400706;')
+ERROR - 02/18/2017 12:21 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:52 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:22 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:22 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400779, '__ci_last_regenerate|i:1487400779;')
+ERROR - 02/18/2017 12:22 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:53 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:24 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:24 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487400856, '__ci_last_regenerate|i:1487400856;')
+ERROR - 02/18/2017 12:24 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:54 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/img
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/css
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:55 am --> 404 Page Not Found: Assets/css
+ERROR - 02/18/2017 12:27 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401020, '__ci_last_regenerate|i:1487401020;')
+ERROR - 02/18/2017 12:27 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401023, '__ci_last_regenerate|i:1487401023;')
+ERROR - 02/18/2017 12:27 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Admin/plan
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401037, '__ci_last_regenerate|i:1487401037;')
+ERROR - 02/18/2017 12:27 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:27 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401038, '__ci_last_regenerate|i:1487401038;')
+ERROR - 02/18/2017 12:27 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:28 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:28 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401113, '__ci_last_regenerate|i:1487401113;')
+ERROR - 02/18/2017 12:28 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:58 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 12:58 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:28 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401121, '')
+ERROR - 02/18/2017 12:28 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:79) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:31 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:31 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401262, '__ci_last_regenerate|i:1487401262;')
+ERROR - 02/18/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:31 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401267, '')
+ERROR - 02/18/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 12:33 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 12:33 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401431, '__ci_last_regenerate|i:1487401431;')
+ERROR - 02/18/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 12:33 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487401438, '')
+ERROR - 02/18/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:15 am --> 404 Page Not Found: Services/index
+ERROR - 02/18/2017 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403264, '__ci_last_regenerate|i:1487403264;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403267, '__ci_last_regenerate|i:1487403267;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403269, '__ci_last_regenerate|i:1487403269;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403269, '__ci_last_regenerate|i:1487403269;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403272, '__ci_last_regenerate|i:1487403272;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403274, '__ci_last_regenerate|i:1487403274;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403284, '__ci_last_regenerate|i:1487403284;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403291, '__ci_last_regenerate|i:1487403291;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:34 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403297, '__ci_last_regenerate|i:1487403297;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403298, '__ci_last_regenerate|i:1487403298;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:04 pm --> Query error: Duplicate entry '02547d4b4f4af32f0b2dcbb31041affa3942e6ce' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('02547d4b4f4af32f0b2dcbb31041affa3942e6ce', '27.7.249.19', 1487403298, '__ci_last_regenerate|i:1487403298;')
+ERROR - 02/18/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:37 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:37 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:37 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:37 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:09 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:10 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:10 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:40 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:40 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:10 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:10 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:40 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:40 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:11 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:41 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:41 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:21 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:21 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:51 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:51 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:22 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:23 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:23 pm --> Severity: Notice --> Undefined variable: sub_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/add_plan.php 61
+ERROR - 02/18/2017 01:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 01:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 01:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 02:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 02:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 02:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 02:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 82
+ERROR - 02/18/2017 02:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 82
+ERROR - 02/18/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:11 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:18 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:18 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:31 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:31 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:50 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:50 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:50 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:50 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:51 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:51 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 03:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:11 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:11 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:11 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:11 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Undefined index: extras_discription /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 44
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Undefined variable: extras_title /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 45
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Undefined variable: suration_offer /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 55
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Undefined variable: edxtrasfield /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 56
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:43 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:43 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('try', '18', '28', 'fdfs', '1', Array, Array)
+ERROR - 02/18/2017 03:43 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:14 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:15 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:15 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:15 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:15 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Undefined index: extras_image /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 44
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Undefined variable: extras_title /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 45
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Undefined variable: suration_offer /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 55
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Undefined variable: edxtrasfield /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 56
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:46 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:46 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('tretret', '18', '28', '1', '1', Array, Array)
+ERROR - 02/18/2017 03:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:17 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:17 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: extras_title /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 45
+ERROR - 02/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: suration_offer /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 55
+ERROR - 02/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: edxtrasfield /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 56
+ERROR - 02/18/2017 03:47 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:47 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:47 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('fsdfsf', '18', '28', '1', '1', Array, Array)
+ERROR - 02/18/2017 03:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:19 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:19 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: extras_title /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 45
+ERROR - 02/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: suration_offer /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 55
+ERROR - 02/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: edxtrasfield /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 56
+ERROR - 02/18/2017 03:49 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:49 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:49 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('ffsdf', '18', '29', '4', '1', Array, Array)
+ERROR - 02/18/2017 03:49 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:19 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:19 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:19 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:20 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:50 pm --> Severity: Notice --> Undefined variable: suration_offer /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 55
+ERROR - 02/18/2017 03:50 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:50 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('fdfdf', '18', '29', '54', '1', Array, NULL)
+ERROR - 02/18/2017 03:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:22 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:22 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:53 pm --> Query error: Column 'plan_select_frequency' cannot be null - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('ggdg', '18', '29', '5', '1', NULL, NULL)
+ERROR - 02/18/2017 04:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:54 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/system/database/DB_driver.php 1476
+ERROR - 02/18/2017 03:54 pm --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES (Array, '18', '29', '1', '1', NULL, NULL)
+ERROR - 02/18/2017 03:54 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 03:56 pm --> Query error: Column 'plan_select_frequency' cannot be null - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `plan_select_frequency`, `extras_field`) VALUES ('gdfggfg', '18', '28', '4', '1', NULL, NULL)
+ERROR - 02/18/2017 03:56 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:41) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 04:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 04:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 04:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 04:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 04:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 05:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:56 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:56 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:26 pm --> Query error: Unknown column 'is_active' in 'where clause' - Invalid query: SELECT *
+FROM `ai_plan`
+WHERE is_active = 1
+ERROR - 02/18/2017 06:26 pm --> Query error: Unknown column 'is_active' in 'where clause' - Invalid query: SELECT *
+FROM `ai_plan`
+WHERE is_active = 1
+ERROR - 02/18/2017 06:27 pm --> Query error: Unknown column 'is_active' in 'where clause' - Invalid query: SELECT *
+FROM `ai_plan`
+WHERE is_active = 1
+ERROR - 02/18/2017 06:27 pm --> Severity: Notice --> Undefined property: stdClass::$banner_title /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 65
+ERROR - 02/18/2017 06:27 pm --> Severity: Notice --> Undefined property: stdClass::$p_id /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 66
+ERROR - 02/18/2017 06:27 pm --> Severity: Notice --> Undefined property: stdClass::$is_active /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 67
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 06:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:28 pm --> Severity: Notice --> Undefined property: stdClass::$p_id /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 66
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:28 pm --> Severity: Notice --> Undefined property: stdClass::$p_id /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 66
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 06:58 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 27
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 28
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Css/auto_select
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 27
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 28
+ERROR - 02/18/2017 06:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Css/auto_select
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:07 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 07:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 07:22 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:184) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/18/2017 07:22 am --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 184
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Css/auto_select
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 02/18/2017 07:23 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:23 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 06:55 pm --> Severity: Notice --> Undefined variable: update_plan /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 06:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:56 pm --> Severity: Notice --> Undefined variable: update_plan /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 06:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:26 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:26 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Undefined variable: update_plan /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Undefined variable: update_plan /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Undefined variable: update_plan /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 06:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/edit_plan.php 29
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Baner/index
+ERROR - 02/18/2017 07:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/18/2017 07:34 am --> 404 Page Not Found: Assets/front

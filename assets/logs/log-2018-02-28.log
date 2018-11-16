@@ -1,0 +1,59 @@
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 07:45 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Office cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:45 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:45 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Office cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:45 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:45 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Office cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:45 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:45 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Office cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:45 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 07:46 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:46 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:48 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:48 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 08:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 08:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/28/2018 07:48 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Window Cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:48 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:48 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Window Cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:48 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 02/28/2018 07:48 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Window Cleaning'
+ LIMIT 1
+ERROR - 02/28/2018 07:48 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819

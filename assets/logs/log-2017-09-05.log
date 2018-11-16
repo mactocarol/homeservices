@@ -1,0 +1,63 @@
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 02:29 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108
+ERROR - 09/05/2017 04:21 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 04:21 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 09/05/2017 04:21 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 09/05/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 02:56 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 03:11 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 05:32 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 09/05/2017 06:08 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108

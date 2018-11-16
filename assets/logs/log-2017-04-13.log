@@ -1,0 +1,117 @@
+ERROR - 04/13/2017 08:27 am --> Query error: Duplicate entry '54478b85762148dc95b2593c5219108786d2c2e7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('54478b85762148dc95b2593c5219108786d2c2e7', '180.76.15.153', 1492052258, '__ci_last_regenerate|i:1492052258;fb_1798431413741569_state|s:32:\"abd7728abadc5cf043db83493911f038\";')
+ERROR - 04/13/2017 08:27 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 12:19 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 12:58 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 02:41 pm --> Query error: Duplicate entry '0c1037b092541849d454376fc1100e5839771bf6' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0c1037b092541849d454376fc1100e5839771bf6', '122.175.247.171', 1492074695, '__ci_last_regenerate|i:1492074695;fb_1798431413741569_state|s:32:\"dcfb65c8d4d54cc2d9caad1c14c2ba9f\";')
+ERROR - 04/13/2017 02:41 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 02:46 pm --> Query error: Duplicate entry '0c1037b092541849d454376fc1100e5839771bf6' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0c1037b092541849d454376fc1100e5839771bf6', '122.175.247.171', 1492074989, '__ci_last_regenerate|i:1492074989;fb_1798431413741569_state|s:32:\"69e9373b928e7a96809d2aeb96618ed7\";')
+ERROR - 04/13/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 02:46 pm --> Query error: Duplicate entry '0c1037b092541849d454376fc1100e5839771bf6' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0c1037b092541849d454376fc1100e5839771bf6', '122.175.247.171', 1492074994, '__ci_last_regenerate|i:1492074994;fb_1798431413741569_state|s:32:\"5ca9dd4ebd5bd0171138ea34a9c3833c\";')
+ERROR - 04/13/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 03:33 pm --> Query error: Duplicate entry '9e87a8bd9a60ecde989abed21d607319af7d3fe9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('9e87a8bd9a60ecde989abed21d607319af7d3fe9', '122.175.160.232', 1492077821, '__ci_last_regenerate|i:1492077821;fb_1798431413741569_state|s:32:\"dfd8f47929c3beb98ec51f71a684e355\";')
+ERROR - 04/13/2017 03:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 03:33 pm --> Query error: Duplicate entry '9e87a8bd9a60ecde989abed21d607319af7d3fe9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('9e87a8bd9a60ecde989abed21d607319af7d3fe9', '122.175.160.232', 1492077834, '__ci_last_regenerate|i:1492077834;fb_1798431413741569_state|s:32:\"8b4b8a08ba32d5ea61eaa339272e3641\";')
+ERROR - 04/13/2017 03:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 05:04 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 03:44 pm --> Query error: Duplicate entry '9e87a8bd9a60ecde989abed21d607319af7d3fe9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('9e87a8bd9a60ecde989abed21d607319af7d3fe9', '122.175.160.232', 1492078469, '__ci_last_regenerate|i:1492078469;fb_1798431413741569_state|s:32:\"b0367fb02f23eda80894abec147bd8c4\";')
+ERROR - 04/13/2017 03:44 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 04:12 pm --> Query error: Duplicate entry '9e87a8bd9a60ecde989abed21d607319af7d3fe9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('9e87a8bd9a60ecde989abed21d607319af7d3fe9', '122.175.160.232', 1492080144, '__ci_last_regenerate|i:1492080144;fb_1798431413741569_state|s:32:\"d5dfad5758d6a3c1baeffee38c4f7530\";')
+ERROR - 04/13/2017 04:12 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/13/2017 05:46 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:46 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 412
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 413
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 416
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 417
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 417
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 419
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 420
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 420
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 422
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 423
+ERROR - 04/13/2017 04:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 423
+ERROR - 04/13/2017 05:56 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:56 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/13/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 04/13/2017 05:02 pm --> Unable to load the requested class: Stripe
+ERROR - 04/13/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/payment.php 14
+ERROR - 04/13/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/payment.php 22
+ERROR - 04/13/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/payment.php 31
+ERROR - 04/13/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/payment.php 39
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 06:53 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/13/2017 10:54 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/13/2017 07:52 pm --> 404 Page Not Found: Assets/front

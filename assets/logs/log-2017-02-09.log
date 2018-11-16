@@ -1,0 +1,123 @@
+ERROR - 02/09/2017 11:11 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/09/2017 11:11 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 37
+ERROR - 02/09/2017 11:11 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 102
+ERROR - 02/09/2017 11:11 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 11:11 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 111
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 37
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 102
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 11:49 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 111
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 37
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 102
+ERROR - 02/09/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 11:49 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 111
+ERROR - 02/09/2017 11:52 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 11:58 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 12:50 am --> 404 Page Not Found: GetPrice/-
+ERROR - 02/09/2017 12:50 am --> 404 Page Not Found: GetPrice/-
+ERROR - 02/09/2017 12:53 am --> 404 Page Not Found: GetPrice/1
+ERROR - 02/09/2017 12:38 pm --> Query error: Duplicate entry 'f99ed089f3bb8ac75e938d53110c7f3f28067310' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('f99ed089f3bb8ac75e938d53110c7f3f28067310', '171.61.26.5', 1486624121, '__ci_last_regenerate|i:1486624121;fb_1798431413741569_state|s:32:\"8c7e4730e47571d97bd433fedf6d66f4\";')
+ERROR - 02/09/2017 12:38 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 12:38 pm --> Query error: Duplicate entry 'f99ed089f3bb8ac75e938d53110c7f3f28067310' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('f99ed089f3bb8ac75e938d53110c7f3f28067310', '171.61.26.5', 1486624126, '')
+ERROR - 02/09/2017 12:38 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:121) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 12:38 pm --> Query error: Duplicate entry 'f99ed089f3bb8ac75e938d53110c7f3f28067310' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('f99ed089f3bb8ac75e938d53110c7f3f28067310', '171.61.26.5', 1486624139, '')
+ERROR - 02/09/2017 12:38 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:121) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 112
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 114
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 115
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 112
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 114
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 115
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 112
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 114
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 115
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 112
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 114
+ERROR - 02/09/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 115
+ERROR - 02/09/2017 01:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 01:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 01:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 01:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 118
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 121
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 118
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 121
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 118
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 01:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 121
+ERROR - 02/09/2017 02:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 02:52 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 02/09/2017 02:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:57 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 02:58 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 02:58 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 02:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 117
+ERROR - 02/09/2017 02:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 119
+ERROR - 02/09/2017 02:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 03:13 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 02/09/2017 04:05 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 04:05 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 04:06 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 04:06 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 04:06 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 04:07 am --> 404 Page Not Found: CheckPrice/Handyman
+ERROR - 02/09/2017 04:07 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/config/routes.php:4) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 04:07 am --> Severity: Compile Warning --> Unterminated comment starting line 4 /home2/carolhhp/public_html/democarol.com/homeservices/application/config/routes.php 4
+ERROR - 02/09/2017 04:47 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 02/09/2017 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 05:02 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:120) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 05:02 pm --> Severity: Error --> Unsupported operand types /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 05:11 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:120) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 05:11 pm --> Severity: Error --> Unsupported operand types /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 05:15 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:120) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 05:15 pm --> Severity: Error --> Unsupported operand types /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 120
+ERROR - 02/09/2017 05:56 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 05:58 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 05:58 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 06:02 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:113) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 06:02 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 113
+ERROR - 02/09/2017 06:10 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 06:12 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 06:15 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 06:30 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:113) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/09/2017 06:30 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 113
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: L_GetPrice/-
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/09/2017 07:28 am --> 404 Page Not Found: Assets/front

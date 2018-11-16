@@ -1,0 +1,539 @@
+ERROR - 02/08/2017 01:19 am --> 404 Page Not Found: Assets/img
+ERROR - 02/08/2017 01:20 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 01:20 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 01:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 12:53 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `location_name`, `city`, `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 01:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 01:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 01:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 12:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:15 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 03:15 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:16 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 03:16 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 02:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 03:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:05 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:07 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:43 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 04:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 04:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 05:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 05:12 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:20 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Images/photos
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/08/2017 05:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js

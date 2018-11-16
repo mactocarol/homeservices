@@ -1,0 +1,59 @@
+    	<!-----banner_img--->
+	<div id="cms-page-title" class="cms-page-title text-center">
+        <div id="cms-page-title-overlay">
+            <div class="container">
+				<div class="row">
+					<div id="cms-page-title-text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+						 <h1> SERVICES</h1>
+					</div>
+					<div id="cms-breadcrumb-text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+						<ol class="breadcrumb">
+						  <li class="breadcrumb-item"><a href="<?php echo base_url();?>">Home</a></li>
+                                                  <li class="breadcrumb-item active"><a href="<?php echo base_url();?>BookingTerms">Terms of Use</a></li>
+						</ol>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+	<!-----banner_end--->
+		<!----inner_pages_section--->
+	<div class="inner_pages_section">
+	    <section class="terms padding_60">
+			<div class="container">
+				<div class="inner_terms">
+				    <p>Welcome to 88homepros The 88homepros Platform is an information and social network dedicated to homebuilding, renovation, and design. 88homepros brings together professionals, service providers, products, homeowners, renters and design enthusiasts. Through the 88homepros Platform, people can obtain and exchange, ideas, information, products, and services related to home remodeling and design.</p>
+				    <p>This 88homepros Privacy Policy is to help you understand what information 88homepros collects, how 88homepros uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website, mobile applications and other applications (collectively the “Site�? or “88homepros Platform�?). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our Terms of Use are incorporated by reference into this privacy policy, including applicable terms governing limitations on liability and the resolution of disputes. The terms “we,�? or “our,�? refer to 88homepros Inc., a Delaware corporation, and 88homepros Shop LLC, a Delaware limited liability company, which are headquartered in Palo Alto, California in the United States.<p>
+				    <h3>1. Collection of Information.</h3>
+					<p>We collect information (i) from you directly; (ii) from third parties, and (iii) automatically when you use our Site.</p>
+					<p>In general, we collect information as follows:</p>
+					<ul>
+						<li><b>Account and Profile Information:</b> When you create an account on the 88homepros Platform, we collect your name, contact information, and other information you provide. You also will be asked to create a profile on the Site. If you do, profile information such as your name,   username, current projects, demographic information, and any photo you submit may be displayed publicly on the social network. You can customize some of the information displayed publicly in your 88homepros profile by going to your account and profile settings. If you feel that an unauthorized account has been created depicting you or your likeness, please contact us at privacy@88homepros.com. You have an obligation to provide us accurate information.</li>
+						<li><b>Public Content:</b> We collect and store the information that you post to the Site, including your photos, comments, Ideabooks, and profile information.</li>
+						<li><b>Communications.</b> When you communicate with us (via email, phone, through the Site or otherwise), we maintain a record of your communication (including call recordings).  In addition, when you call a 88homepros Pro using the number displayed on the Pro’s 88homepros Page, we may collect certain analytic data (including call recordings). Similarly, when you submit information to a 88homepros Pro through their 88homepros Pro Profile or their 88homepros-hosted website, we may collect and maintain that information on the Pro’s behalf; however, the Pros’ use of that information (including call recordings) is subject to their own policies and practices, not this privacy policy.</li>
+						<li><b>Messages.</b> If you exchange messages with others through the Site, in accordance with applicable law, we may store them in order to process and deliver them, allow you to manage them, and investigate possible wrongdoing in connection with the Site. The 88homepros Platform may also enable you to connect, at your initiation, with third-party providers of products and services who you wish to contact outside of the Site; any such information you submit or send to third parties in this manner, including your personal email address, is not subject to this Privacy Policy.</li>
+						<li><b>Transactional Information.</b> If you purchase products within the Site, we collect certain information in order to process your request, such as your phone number, address, email, and credit card or bank account information.</li>
+						<li><b>Site Activity and Automatically Collected Information.</b> We collect and may store information about your use of the Site (including our mobile applications), such as your search activity, the pages you view, and the date and time of your visit. We also collect and may store information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.</li>
+						<li><b>Linked Networks and Contacts.</b> If you elect to connect your 88homepros profile to another network or service provider like Facebook or Google, you will be asked to enable sharing of your contact information with 88homepros. If you agree to this sharing, in order to facilitate a more connected experience, we may send notices so that you and your contacts can find and follow each other on the 88homepros Platform.  You also will be connected within the Site as followers of each other, and you can learn more about people you know in common on the Site. You can adjust permission for users to follow your profile in the advanced settings of your profile.</li>
+					</ul>
+					<h3>2. Use of Information.</h3>
+					<p>We may use the information we collect for purposes such as to: provide the Site’s functionality; improve the Site’s quality; personalize your experience; tailor the content and information that we may send or display to you; offer location customization, and otherwise offer personalized help and suggestions; track usage of the Site; facilitate the fulfillment of your orders placed through the Site; provide feedback to businesses and professionals whose products or services are listed on the Site; display relevant advertising (on our Site and third party sites); evaluate the success of our advertising; provide customer support; communicate with you about your use of the Site and any orders; allow third parties to contact you through the Site; respond to your inquiries and requests; send you marketing communications and otherwise message you (in ways described by this privacy policy and managed by you in your account settings); back up our systems and allow for disaster recovery; enhance the security of the Site; fulfill transactions authorized by you on the Site; use as otherwise requested or consented to by you; and to comply with legal obligations.</p>
+				    <h3>3. Sharing Your Information</h3>
+				    <p>We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third-parties to use for their own marketing purposes. However, in some cases 88homepros may allow third parties, including other users and 88homepros partners, to contact you through the Site, including for marketing purposes. Additionally any information that you share publically through your profile is available to third party users of and visitors to the Site; we cannot control such third parties’ use or further disclosure of your information. We may share some information about you with third parties in connection with your use of the Site. Our information sharing with third-parties generally fall into these categories and purposes:</p>
+				    <ul>
+						<li><b>Agents, Contractors, and Service Providers:</b> We may share your information with our agents, e-commerce partners, and contractors or other service providers as needed to carry out the performance and functionality of the Site, fulfill your requests or authorized commercial transactions, process your payments, or provide customer support.</li>
+						<li><b>Analytics and Usage:</b> We may share user information in de-identified or aggregate form, with third parties, such as advertisers, professionals, and other businesses. For example, we may disclose to a business the number of users that have viewed their product. Business or professionals that participate on the 88homepros Platform may also access usage data associated with your public profile. For example, a business can see that you, as identified by your public profile username, any profile photo, and any other publicly displayed profile identifiers (but not identified by your email or non-public account information), added their product to one of your Ideabooks on a particular date.</li>
+						<li><b>Third Party Ad Networks:</b> We use third-party advertising companies to serve advertisements on third party sites, and may work with them to serve ads on our Site, as well as to assist us in evaluating the effectiveness of our advertising, in accordance with applicable law. These companies use cookies, web beacons, and other tracking technologies to collect information (not including your name, address, email address or telephone number) about your visits to this Site and other sites in order to provide targeted advertisements to you. Please see the Third Party Advertising section below for more information.</li>
+						<li><b>Affiliated Entities</b> We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this privacy policy.</li>
+						<li><b>Business Transfers:</b> If we are acquired by or merged with another entity, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected about you to the other company. We may also disclose certain personal information to a company as part of the planning or review for a potential merger, acquisition or transfer of assets.</li>
+						<li><b>Other Users:</b> Information that you post publicly on the Site (e.g., photos, comments, your profile) will be made publicly available to other users of the 88homepros Platform. The information that you post to the Site is intended for public consumption, including your photos, comments, Ideabooks, and profile information. By posting on the Site, you agree to permit us to disclose publicly the material you post.</li>
+						<li><b>Investigations:</b> We may investigate and disclose information from or about you, as permitted by applicable law, if we believe that such investigation or disclosure is (a) necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) helpful to protect our rights, reputation, property, or that of our users, subsidiaries, or the public.</li>
+						</ul>
+				</div>
+			</div>
+		</section>
+	</div>
+	<!----inner_pages_section--->
+	
+	
+	

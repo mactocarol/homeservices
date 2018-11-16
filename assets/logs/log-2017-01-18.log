@@ -1,0 +1,652 @@
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 12:48 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 12:49 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 01:04 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 01:07 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 01:13 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/18/2017 01:15 am --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/18/2017 01:30 am --> 404 Page Not Found: Services/index
+ERROR - 01/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 41
+ERROR - 01/18/2017 01:05 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:05 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:06 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 41
+ERROR - 01/18/2017 01:06 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:06 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:06 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 41
+ERROR - 01/18/2017 01:06 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:06 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:07 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:07 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:08 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:09 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:09 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:10 pm --> Severity: Notice --> Undefined variable: country_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:10 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:11 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:12 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 42
+ERROR - 01/18/2017 01:12 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:12 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:12 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:12 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:32 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:32 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:32 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:32 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:34 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:34 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:35 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:36 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 01:40 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:46 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:46 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:47 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:48 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:48 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:49 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:49 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:49 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:49 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:49 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:57) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 02:49 pm --> Severity: Error --> Call to undefined function dump() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 58
+ERROR - 01/18/2017 02:51 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:51 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:21 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:52 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 02:53 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:53 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 02:53 pm --> Query error: Unknown column 'active' in 'where clause' - Invalid query: SELECT * FROM `ai_category` WHERE `cat_parent_id` =0 AND `is_active` = `active` ORDER BY `cat_order` ASC
+ERROR - 01/18/2017 03:01 pm --> Query error: Unknown column 'active' in 'where clause' - Invalid query: SELECT * FROM `ai_category` WHERE `cat_parent_id` =0 AND `is_active` = active ORDER BY `cat_order` ASC
+ERROR - 01/18/2017 03:02 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:65) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 03:02 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 65
+ERROR - 01/18/2017 03:03 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:06 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:06 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:06 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:06 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:06 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:07 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:39 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php:65) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 03:39 am --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Myaccount.php 65
+ERROR - 01/18/2017 03:09 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php:79) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 03:09 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:44 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php:5) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 03:44 am --> Severity: Error --> Class 'MY_Controller' not found /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 5
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/core/MY_Controller.php 85
+ERROR - 01/18/2017 03:14 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/18/2017 03:14 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:15 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php 77
+ERROR - 01/18/2017 03:46 am --> 404 Page Not Found: My-account/index
+ERROR - 01/18/2017 03:46 am --> 404 Page Not Found: My-account/index
+ERROR - 01/18/2017 03:16 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:16 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:22 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:23 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:25 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:25 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:25 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:25 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:26 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:32 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:32 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+INFO - 01/18/2017 04:02 am --> Config Class Initialized
+INFO - 01/18/2017 04:02 am --> Hooks Class Initialized
+DEBUG - 01/18/2017 04:02 am --> UTF-8 Support Enabled
+INFO - 01/18/2017 04:02 am --> Utf8 Class Initialized
+INFO - 01/18/2017 04:02 am --> URI Class Initialized
+DEBUG - 01/18/2017 04:02 am --> No URI present. Default controller set.
+INFO - 01/18/2017 04:02 am --> Router Class Initialized
+INFO - 01/18/2017 04:02 am --> Output Class Initialized
+INFO - 01/18/2017 04:02 am --> Security Class Initialized
+DEBUG - 01/18/2017 04:02 am --> Global POST, GET and COOKIE data sanitized
+INFO - 01/18/2017 04:02 am --> Input Class Initialized
+INFO - 01/18/2017 04:02 am --> Language Class Initialized
+INFO - 01/18/2017 04:02 am --> Loader Class Initialized
+INFO - 01/18/2017 04:02 am --> Helper loaded: array_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: text_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: url_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: file_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: html_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: form_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: security_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: string_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: act_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: my_url_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: csv_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: cookie_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: geo_location_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: global_helper
+INFO - 01/18/2017 04:02 am --> Helper loaded: payment_helper
+INFO - 01/18/2017 04:02 am --> Database Driver Class Initialized
+INFO - 01/18/2017 04:02 am --> Session: Class initialized using 'database' driver.
+INFO - 01/18/2017 04:02 am --> Email Class Initialized
+INFO - 01/18/2017 04:02 am --> Form Validation Class Initialized
+INFO - 01/18/2017 04:02 am --> Controller Class Initialized
+INFO - 01/18/2017 04:02 am --> Model Class Initialized
+INFO - 01/18/2017 04:02 am --> Model Class Initialized
+INFO - 01/18/2017 03:32 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php
+INFO - 01/18/2017 03:32 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php
+INFO - 01/18/2017 03:32 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/footer.php
+INFO - 01/18/2017 03:32 pm --> Final output sent to browser
+DEBUG - 01/18/2017 03:32 pm --> Total execution time: 0.0533
+INFO - 01/18/2017 04:06 am --> Config Class Initialized
+INFO - 01/18/2017 04:06 am --> Hooks Class Initialized
+DEBUG - 01/18/2017 04:06 am --> UTF-8 Support Enabled
+INFO - 01/18/2017 04:06 am --> Utf8 Class Initialized
+INFO - 01/18/2017 04:06 am --> URI Class Initialized
+DEBUG - 01/18/2017 04:06 am --> No URI present. Default controller set.
+INFO - 01/18/2017 04:06 am --> Router Class Initialized
+INFO - 01/18/2017 04:06 am --> Output Class Initialized
+INFO - 01/18/2017 04:06 am --> Security Class Initialized
+DEBUG - 01/18/2017 04:06 am --> Global POST, GET and COOKIE data sanitized
+INFO - 01/18/2017 04:06 am --> Input Class Initialized
+INFO - 01/18/2017 04:06 am --> Language Class Initialized
+INFO - 01/18/2017 04:06 am --> Loader Class Initialized
+INFO - 01/18/2017 04:06 am --> Helper loaded: array_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: text_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: url_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: file_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: html_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: form_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: security_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: string_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: act_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: my_url_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: csv_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: cookie_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: geo_location_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: global_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: payment_helper
+INFO - 01/18/2017 04:06 am --> Database Driver Class Initialized
+INFO - 01/18/2017 04:06 am --> Session: Class initialized using 'database' driver.
+INFO - 01/18/2017 04:06 am --> Email Class Initialized
+INFO - 01/18/2017 04:06 am --> Form Validation Class Initialized
+INFO - 01/18/2017 04:06 am --> Controller Class Initialized
+INFO - 01/18/2017 04:06 am --> Model Class Initialized
+INFO - 01/18/2017 04:06 am --> Model Class Initialized
+INFO - 01/18/2017 04:06 am --> Config Class Initialized
+INFO - 01/18/2017 04:06 am --> Hooks Class Initialized
+DEBUG - 01/18/2017 04:06 am --> UTF-8 Support Enabled
+INFO - 01/18/2017 04:06 am --> Utf8 Class Initialized
+INFO - 01/18/2017 04:06 am --> URI Class Initialized
+DEBUG - 01/18/2017 04:06 am --> No URI present. Default controller set.
+INFO - 01/18/2017 04:06 am --> Router Class Initialized
+INFO - 01/18/2017 04:06 am --> Output Class Initialized
+INFO - 01/18/2017 04:06 am --> Security Class Initialized
+DEBUG - 01/18/2017 04:06 am --> Global POST, GET and COOKIE data sanitized
+INFO - 01/18/2017 04:06 am --> Input Class Initialized
+INFO - 01/18/2017 04:06 am --> Language Class Initialized
+INFO - 01/18/2017 04:06 am --> Loader Class Initialized
+INFO - 01/18/2017 04:06 am --> Helper loaded: array_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: text_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: url_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: file_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: html_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: form_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: security_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: string_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: act_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: my_url_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: csv_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: cookie_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: geo_location_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: global_helper
+INFO - 01/18/2017 04:06 am --> Helper loaded: payment_helper
+INFO - 01/18/2017 04:06 am --> Database Driver Class Initialized
+INFO - 01/18/2017 04:06 am --> Session: Class initialized using 'database' driver.
+INFO - 01/18/2017 04:06 am --> Email Class Initialized
+INFO - 01/18/2017 04:06 am --> Form Validation Class Initialized
+INFO - 01/18/2017 04:06 am --> Controller Class Initialized
+INFO - 01/18/2017 04:06 am --> Model Class Initialized
+INFO - 01/18/2017 04:06 am --> Model Class Initialized
+INFO - 01/18/2017 03:36 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/header.php
+INFO - 01/18/2017 03:36 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php
+INFO - 01/18/2017 03:36 pm --> File loaded: /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/include/footer.php
+INFO - 01/18/2017 03:36 pm --> Final output sent to browser
+DEBUG - 01/18/2017 03:36 pm --> Total execution time: 0.0512
+ERROR - 01/18/2017 03:37 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:37 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:40 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:40 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:41 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:41 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:44 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:44 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:16 am --> 404 Page Not Found: front/Myaccount/index
+ERROR - 01/18/2017 03:46 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:46 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:46 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:46 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:47 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:48 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 03:49 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:04 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:04 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:07 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:07 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:09 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:09 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:09 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:09 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:10 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:10 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:10 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:10 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:40 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:11 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:11 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:41 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:12 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:12 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:42 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:13 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:13 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:43 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:13 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:13 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:13 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:43 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:14 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:14 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:14 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:14 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:14 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 135
+ERROR - 01/18/2017 04:17 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:17 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 04:19 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:20 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:21 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:22 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:23 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:23 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:23 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 136
+ERROR - 01/18/2017 04:25 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:26 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:27 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 04:29 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 01/18/2017 05:10 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/18/2017 05:10 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/18/2017 05:33 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/18/2017 05:35 am --> 404 Page Not Found: front/Service/Cleaning
+ERROR - 01/18/2017 05:35 am --> 404 Page Not Found: front/Service/Cleaning
+ERROR - 01/18/2017 05:35 am --> 404 Page Not Found: front/Services/Cleaning
+ERROR - 01/18/2017 05:35 am --> 404 Page Not Found: front/Services/Cleaning
+ERROR - 01/18/2017 05:36 am --> 404 Page Not Found: front/Service/Cleaning
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:38 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 05:40 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:11 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:12 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:13 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:35 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 06:44 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 01/18/2017 06:21 pm --> Query error: Table 'carolhhp_services.ai_les_category' doesn't exist - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`
+FROM `ai_les_category`
+WHERE `cat_name` = 'Gardening'
+AND `is_active` = 'active'
+ERROR - 01/18/2017 06:21 pm --> Query error: Table 'carolhhp_services.ai_les_category' doesn't exist - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`
+FROM `ai_les_category`
+WHERE `cat_name` = 'Gardening'
+AND `is_active` = 'active'
+ERROR - 01/18/2017 06:58 pm --> Query error: Unknown column 'active' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_parent_id = 14
+AND is_active = active
+ERROR - 01/18/2017 07:03 pm --> Query error: Unknown column 'active' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_parent_id = 14
+AND is_active = active
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/img
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/img
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:36 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/18/2017 07:37 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:39 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Assets/js
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/18/2017 07:40 am --> 404 Page Not Found: Images/photos
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:49 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:52 am --> 404 Page Not Found: Assets/front
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img
+ERROR - 01/18/2017 07:54 am --> 404 Page Not Found: Services/img

@@ -1,0 +1,50 @@
+ERROR - 10/10/2017 12:30 am --> Query error: Duplicate entry 'ae14ec1ca9666ba74878d9f40968a5f6fe6eb813' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('ae14ec1ca9666ba74878d9f40968a5f6fe6eb813', '180.76.15.5', 1507575603, '__ci_last_regenerate|i:1507575603;fb_1798431413741569_state|s:32:\"6aa7978c0c2872bf7dc42557b9b53f52\";')
+ERROR - 10/10/2017 12:30 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 01:03 am --> Query error: Duplicate entry '280929a3eb4f540bdc57ef99491b5990a2412d5f' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('280929a3eb4f540bdc57ef99491b5990a2412d5f', '180.76.15.159', 1507577602, '__ci_last_regenerate|i:1507577602;fb_1798431413741569_state|s:32:\"c3b0212b1d675a0f40332386564b8324\";')
+ERROR - 10/10/2017 01:03 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 01:36 am --> Query error: Duplicate entry '82ba92af67a17865702de8c9f4214c3c0f47225b' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('82ba92af67a17865702de8c9f4214c3c0f47225b', '180.76.15.10', 1507579602, '__ci_last_regenerate|i:1507579602;fb_1798431413741569_state|s:32:\"44f281d0a0e4bd7562078e08a58257da\";')
+ERROR - 10/10/2017 01:36 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 08:16 am --> Query error: Duplicate entry 'c90b61e77440356fec7d77b0cc957f70c1029c56' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c90b61e77440356fec7d77b0cc957f70c1029c56', '180.76.15.156', 1507603560, '__ci_last_regenerate|i:1507603560;fb_1798431413741569_state|s:32:\"441a97b89bf4565f1020e805aa0db8e6\";')
+ERROR - 10/10/2017 08:16 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 09:22 am --> Query error: Duplicate entry '55245c56243a348660c50d5287a40b05e8f08894' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('55245c56243a348660c50d5287a40b05e8f08894', '180.76.15.18', 1507607560, '__ci_last_regenerate|i:1507607560;fb_1798431413741569_state|s:32:\"a58059a6672bc94b2b29893e01ac2e44\";')
+ERROR - 10/10/2017 09:22 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 09:56 am --> Query error: Duplicate entry '6a863cda0a66d7e89b918813166768d75057e332' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('6a863cda0a66d7e89b918813166768d75057e332', '180.76.15.8', 1507609560, '__ci_last_regenerate|i:1507609559;fb_1798431413741569_state|s:32:\"ac93e74adef13aa3efd66b407565de98\";')
+ERROR - 10/10/2017 09:56 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 11:35 am --> Query error: Duplicate entry '5227bbb833e748641443dd2cd17826cce382df63' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('5227bbb833e748641443dd2cd17826cce382df63', '180.76.15.21', 1507615559, '__ci_last_regenerate|i:1507615559;fb_1798431413741569_state|s:32:\"40b6aa54efe8dba94e5f34520a81786b\";')
+ERROR - 10/10/2017 11:35 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 97
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 98
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 99
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 101
+ERROR - 10/10/2017 12:19 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 108
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:50 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:51 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:51 am --> 404 Page Not Found: Images/photos
+ERROR - 10/10/2017 04:51 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 04:51 am --> 404 Page Not Found: Assets/js
+ERROR - 10/10/2017 06:28 pm --> Query error: Duplicate entry '6a5648c4f7944e042829e958148f9a0a6f8893f9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('6a5648c4f7944e042829e958148f9a0a6f8893f9', '180.76.15.140', 1507640338, '__ci_last_regenerate|i:1507640338;fb_1798431413741569_state|s:32:\"7b8157bae47329532b9d59bdb2fa2aff\";')
+ERROR - 10/10/2017 06:28 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 07:35 pm --> Query error: Duplicate entry 'a1ab2e85af1377ca973dcd3948b6432c6d6473ec' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('a1ab2e85af1377ca973dcd3948b6432c6d6473ec', '180.76.15.26', 1507644338, '__ci_last_regenerate|i:1507644338;fb_1798431413741569_state|s:32:\"1c114d249a5ddf50bca7e99162dcdb6c\";')
+ERROR - 10/10/2017 07:35 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 10/10/2017 09:48 pm --> Query error: Duplicate entry 'bfad65a23cd1b10cf20209bf8b76a28df449e992' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('bfad65a23cd1b10cf20209bf8b76a28df449e992', '180.76.15.15', 1507652338, '__ci_last_regenerate|i:1507652338;fb_1798431413741569_state|s:32:\"18406d440dbb84d6316214052fa07933\";')
+ERROR - 10/10/2017 09:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573

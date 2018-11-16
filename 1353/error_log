@@ -1,0 +1,2 @@
+[30-Aug-2017 02:49:15 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/carolhhp/public_html/democarol.com/homeservices/1353/src/Facebook/FacebookRedirectLoginHelper.php on line 186
+[30-Aug-2017 02:50:50 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/carolhhp/public_html/democarol.com/homeservices/1353/src/Facebook/FacebookRedirectLoginHelper.php on line 187

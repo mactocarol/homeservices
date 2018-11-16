@@ -1,0 +1,191 @@
+ERROR - 03/02/2017 12:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:12 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:12 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:14 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:14 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:14 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:14 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/02/2017 12:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/02/2017 12:30 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438057, '__ci_last_regenerate|i:1488438057;')
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438063, '__ci_last_regenerate|i:1488438063;')
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438074, '__ci_last_regenerate|i:1488438074;')
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438077, '__ci_last_regenerate|i:1488438077;fb_1798431413741569_state|s:32:\"3c0a903de481f3e4eb5c1d8304224438\";')
+ERROR - 03/02/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438083, '__ci_last_regenerate|i:1488438083;zipcode|s:6:\"452010\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438090, '__ci_last_regenerate|i:1488438090;fb_1798431413741569_state|s:32:\"f187c6c6b3e9000fad443cfedaa977a0\";')
+ERROR - 03/02/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438091, '__ci_last_regenerate|i:1488438091;zipcode|s:6:\"452010\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438097, '__ci_last_regenerate|i:1488438097;fb_1798431413741569_state|s:32:\"a22f773f8ae2864d3eb4b2c1c6b41e40\";')
+ERROR - 03/02/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438101, '__ci_last_regenerate|i:1488438101;fb_1798431413741569_state|s:32:\"3ac9399f2b06044cb9f21dd016144358\";')
+ERROR - 03/02/2017 12:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:31 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438114, '__ci_last_regenerate|i:1488438114;zipcode|s:6:\"452010\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438236, '__ci_last_regenerate|i:1488438236;fb_1798431413741569_state|s:32:\"5d12c2c6b79d380c642f73a32a3b2abd\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438239, '__ci_last_regenerate|i:1488438239;fb_1798431413741569_state|s:32:\"fca479f76a5ec28b49872e5c1a510572\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438239, '__ci_last_regenerate|i:1488438239;fb_1798431413741569_state|s:32:\"dacea307cabfdc9fefc70144f272b4d5\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438239, '__ci_last_regenerate|i:1488438239;fb_1798431413741569_state|s:32:\"9110a184f9e22c98c781788be3d47e1f\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438239, '__ci_last_regenerate|i:1488438239;fb_1798431413741569_state|s:32:\"d3fc7774947516dffaef8b1f1edac28f\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:33 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438239, '__ci_last_regenerate|i:1488438239;fb_1798431413741569_state|s:32:\"0c5daccbfe491f0ed26ad6155d52333d\";')
+ERROR - 03/02/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438240, '__ci_last_regenerate|i:1488438240;fb_1798431413741569_state|s:32:\"f18c0fce7619b8e80f4ca8420577a1ce\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438240, '__ci_last_regenerate|i:1488438240;fb_1798431413741569_state|s:32:\"574ac5d04835cdd255ea71740c2c8893\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438240, '__ci_last_regenerate|i:1488438240;fb_1798431413741569_state|s:32:\"fa4c14521f0c37c93f0db4c387c15eca\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438241, '__ci_last_regenerate|i:1488438241;fb_1798431413741569_state|s:32:\"1242ccb702b00241259490daaeeb435c\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438243, '__ci_last_regenerate|i:1488438243;fb_1798431413741569_state|s:32:\"e834803a6d50b77d72098dbba966eef7\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438244, '__ci_last_regenerate|i:1488438244;fb_1798431413741569_state|s:32:\"efe7d435c33097ea81c7a237e1b0059b\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438244, '__ci_last_regenerate|i:1488438244;fb_1798431413741569_state|s:32:\"a05e35a6e4fcaf16eb896eb0e8c3735a\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438244, '__ci_last_regenerate|i:1488438244;fb_1798431413741569_state|s:32:\"745a3d4bda71629546cea09caaf885ca\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438244, '__ci_last_regenerate|i:1488438244;fb_1798431413741569_state|s:32:\"0026bea492b0e586b956ee5f6e696b3a\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438244, '__ci_last_regenerate|i:1488438244;fb_1798431413741569_state|s:32:\"7afe03fc9c86477222d1c28eae353c39\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438245, '__ci_last_regenerate|i:1488438245;fb_1798431413741569_state|s:32:\"67bbc7d5aefb5b82430556803bb600da\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438249, '__ci_last_regenerate|i:1488438249;fb_1798431413741569_state|s:32:\"190280ca09c390639c6c1b8b30112530\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438255, '__ci_last_regenerate|i:1488438255;fb_1798431413741569_state|s:32:\"e1a0e4460f247f89d69a0ed87c13f449\";')
+ERROR - 03/02/2017 12:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 12:34 pm --> Query error: Duplicate entry '37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('37fc9069e7c0fc6eacb7e4b3ca824b3179a71a04', '103.82.97.2', 1488438261, '__ci_last_regenerate|i:1488438261;zipcode|s:6:\"452010\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 03/02/2017 02:03 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:242) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 02:03 am --> Severity: Parsing Error --> syntax error, unexpected ')', expecting ']' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:07 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:186) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 02:07 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 186
+ERROR - 03/02/2017 01:39 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 01:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 01:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 02:11 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 03/02/2017 01:41 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:243) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 01:41 pm --> Severity: Error --> Call to undefined function decode_json() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 02:12 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 03/02/2017 01:42 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:243) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/02/2017 01:42 pm --> Severity: Error --> Call to undefined function encode_json() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 01:43 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/02/2017 01:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 244
+ERROR - 03/02/2017 01:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 244
+ERROR - 03/02/2017 01:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 244
+ERROR - 03/02/2017 01:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 244
+ERROR - 03/02/2017 02:01 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:01 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 245
+ERROR - 03/02/2017 02:01 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 246
+ERROR - 03/02/2017 02:01 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 247
+ERROR - 03/02/2017 02:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 242
+ERROR - 03/02/2017 02:06 pm --> Severity: Notice --> Array to string conversion /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 244
+ERROR - 03/02/2017 06:33 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:33 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:34 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:34 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:34 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:35 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:37 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:48 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 06:48 am --> 404 Page Not Found: Assets/img
+ERROR - 03/02/2017 06:48 am --> 404 Page Not Found: Assets/img
+ERROR - 03/02/2017 06:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 07:25 am --> 404 Page Not Found: Assets/img
+ERROR - 03/02/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:47 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:49 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Assets/js
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Images/photos
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/02/2017 08:50 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/02/2017 10:35 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 10:35 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/02/2017 10:49 am --> 404 Page Not Found: front/Service/single_service

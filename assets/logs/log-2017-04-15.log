@@ -1,0 +1,546 @@
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 10:48 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/img
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 12:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 01:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:32 pm --> Severity: error --> Exception: Unable to locate the model you have specified: Banner_model /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Loader.php 344
+ERROR - 04/15/2017 12:33 pm --> Severity: error --> Exception: Unable to locate the model you have specified: Banner_model /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Loader.php 344
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 12:33 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:05 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:08 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:08 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:08 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:08 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:08 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:49 pm --> Severity: Notice --> Undefined variable: heading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/add_zip.php 4
+ERROR - 04/15/2017 12:49 pm --> Severity: Notice --> Undefined variable: heading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/add_zip.php 29
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 12:49 pm --> Severity: Notice --> Undefined variable: heading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/add_zip.php 4
+ERROR - 04/15/2017 12:49 pm --> Severity: Notice --> Undefined variable: heading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/add_zip.php 29
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:19 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 12:51 pm --> Severity: Notice --> Undefined variable: heading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/add_zip.php 29
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:26 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 02:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:07 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:21 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Css/auto_select
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:22 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:24 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:25 am --> 404 Page Not Found: ManageZip/index
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: ManageZip/index
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:33 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:05 pm --> The upload path does not appear to be valid.
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:35 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 05:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 05:40 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:10 pm --> The upload path does not appear to be valid.
+ERROR - 04/15/2017 05:40 am --> 404 Page Not Found: Manage_order/index
+ERROR - 04/15/2017 05:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:42 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:14 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 06:22 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:22 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:22 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 04:53 pm --> Query error: Table 'carolhhp_services.ai_cod_zip' doesn't exist - Invalid query: SELECT *
+FROM `ai_cod_zip`
+WHERE `order_id` = '452001'
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 06:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:30 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:30 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:30 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 06:33 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:33 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:33 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:26 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php:154) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 04/15/2017 07:26 am --> Severity: Parsing Error --> syntax error, unexpected '=', expecting variable (T_VARIABLE) or '$' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 154
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 05:57 pm --> Severity: 8192 --> mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 130
+ERROR - 04/15/2017 05:57 pm --> Severity: Warning --> mysql_real_escape_string(): Access denied for user 'carolhhp'@'localhost' (using password: NO) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 130
+ERROR - 04/15/2017 05:57 pm --> Severity: Warning --> mysql_real_escape_string(): A link to the server could not be established /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 130
+ERROR - 04/15/2017 05:57 pm --> Severity: 8192 --> mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 131
+ERROR - 04/15/2017 05:57 pm --> Severity: Warning --> mysql_real_escape_string(): Access denied for user 'carolhhp'@'localhost' (using password: NO) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 131
+ERROR - 04/15/2017 05:57 pm --> Severity: Warning --> mysql_real_escape_string(): A link to the server could not be established /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Location.php 131
+ERROR - 04/15/2017 05:57 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 04/15/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:28 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:28 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:30 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:30 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:30 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:30 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 06:00 pm --> Query error: Table 'carolhhp_services.ai_1ai_locations' doesn't exist - Invalid query: INSERT INTO `ai_1ai_locations` (`zip_code`, `city`) VALUES ('452022', 'indore')
+ERROR - 04/15/2017 07:31 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:31 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:31 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:31 am --> 404 Page Not Found: ManageZip/index
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/img
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:35 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:35 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:35 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 07:35 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:38 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:42 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:45 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:45 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:45 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:49 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:49 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:51 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:51 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:57 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:57 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:59 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:59 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 07:59 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 07:59 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:09 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:09 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:14 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:15 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:15 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:15 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:15 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:15 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 06:55 pm --> Severity: Notice --> Undefined property: stdClass::$Inactive /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/location/edit_location.php 50
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:26 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:27 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: ManageZip/index
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:28 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:29 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:35 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:35 am --> 404 Page Not Found: Js/docsupport
+ERROR - 04/15/2017 08:35 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:37 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:39 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:40 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Images/photos
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 04/15/2017 08:42 am --> 404 Page Not Found: Apanel/index
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 07:12 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/15/2017 11:20 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100

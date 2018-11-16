@@ -1,0 +1,342 @@
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 12:36 am --> 404 Page Not Found: Assets/img
+ERROR - 02/10/2017 12:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:37 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 12:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 12:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:41 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:41 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:41 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:45 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:20 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/10/2017 12:20 pm --> Severity: Error --> Call to undefined method CI_DB_mysqli_driver::last_quary() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 02/10/2017 12:21 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/10/2017 12:21 pm --> Severity: Error --> Call to undefined method CI_DB_mysqli_driver::last_quary() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 02/10/2017 12:22 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/10/2017 12:22 pm --> Severity: Error --> Call to undefined method CI_DB_mysqli_driver::last_quary() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 02/10/2017 12:26 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `location_name`, `city`, `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/10/2017 12:31 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 115
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:03 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:38 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `location_name`, `city`, `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/10/2017 01:13 am --> 404 Page Not Found: Assets/img
+ERROR - 02/10/2017 01:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:13 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:22 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:22 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:22 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 01:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 02/10/2017 12:59 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 116
+ERROR - 02/10/2017 01:02 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:56 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:56 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:56 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:56 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:58 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:58 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 01:29 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 116
+ERROR - 02/10/2017 01:59 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 01:59 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 02:00 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 03:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 03:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 03:27 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:27 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:27 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:27 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:28 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:34 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:34 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 03:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 03:49 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:49 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:51 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:51 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:51 am --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 03:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 04:32 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/10/2017 04:32 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 - Invalid query: SELECT `zip_code`
+FROM `ai_locations`
+WHERE zip_code = 
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 05:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 05:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 04:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:51 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 05:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 05:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/10/2017 05:05 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 116
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/10/2017 06:54 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/10/2017 06:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/10/2017 06:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7

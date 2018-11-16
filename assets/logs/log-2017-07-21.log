@@ -1,0 +1,127 @@
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 07/21/2017 09:55 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 11:26 am --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 07/21/2017 11:35 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:06 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:10 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:13 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:14 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:16 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:16 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:16 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:17 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:17 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:17 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:18 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 07/21/2017 01:21 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 01:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Assets/js
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 07/21/2017 02:16 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 02:53 pm --> 404 Page Not Found: Images/photos
+ERROR - 07/21/2017 02:53 pm --> 404 Page Not Found: Images/photos

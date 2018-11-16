@@ -1,0 +1,270 @@
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 02/03/2018 04:06 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 100
+ERROR - 02/03/2018 10:55 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 823
+ERROR - 02/03/2018 12:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:55 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:56 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 12:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:33 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 233
+ERROR - 02/03/2018 02:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:33 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 822
+ERROR - 02/03/2018 01:33 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 822
+ERROR - 02/03/2018 02:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:57 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 233
+ERROR - 02/03/2018 02:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 01:57 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 642
+ERROR - 02/03/2018 01:57 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 642
+ERROR - 02/03/2018 01:57 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 642
+ERROR - 02/03/2018 02:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 02:59 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 822
+ERROR - 02/03/2018 03:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 03:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:50 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 04:55 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 05:41 pm --> Query error: Duplicate entry '19f92f8a63d6401e5eb7f5a048dc75f0d02f85de' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('19f92f8a63d6401e5eb7f5a048dc75f0d02f85de', '47.247.169.155', 1517659879, '__ci_last_regenerate|i:1517659879;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/03/2018 05:41 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/03/2018 05:41 pm --> Query error: Duplicate entry '19f92f8a63d6401e5eb7f5a048dc75f0d02f85de' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('19f92f8a63d6401e5eb7f5a048dc75f0d02f85de', '66.249.82.89', 1517659879, '__ci_last_regenerate|i:1517659879;')
+ERROR - 02/03/2018 05:41 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/03/2018 05:41 pm --> Query error: Duplicate entry '19f92f8a63d6401e5eb7f5a048dc75f0d02f85de' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('19f92f8a63d6401e5eb7f5a048dc75f0d02f85de', '66.249.82.88', 1517659894, '__ci_last_regenerate|i:1517659894;')
+ERROR - 02/03/2018 05:41 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/03/2018 07:36 am --> 404 Page Not Found: Assets/front

@@ -1,0 +1,441 @@
+ERROR - 03/01/2017 10:54 am --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 192
+ERROR - 03/01/2017 10:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 192
+ERROR - 03/01/2017 10:54 am --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 195
+ERROR - 03/01/2017 10:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 195
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/01/2017 12:17 am --> 404 Page Not Found: Assets/img
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 11:48 am --> Severity: Notice --> Undefined variable: cat_name /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 92
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:22 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 12:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:14 am --> 404 Page Not Found: GetPrice/1
+ERROR - 03/01/2017 01:16 am --> 404 Page Not Found: GetPrice/2
+ERROR - 03/01/2017 01:20 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 03/01/2017 12:55 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:240) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/01/2017 12:55 pm --> Severity: Error --> Call to undefined method CI_URI::segmant() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 240
+ERROR - 03/01/2017 12:55 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:240) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/01/2017 12:55 pm --> Severity: Error --> Call to undefined method CI_URI::segmant() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 240
+ERROR - 03/01/2017 02:22 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:243) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/01/2017 02:22 pm --> Severity: Error --> Call to undefined function l_var() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 243
+ERROR - 03/01/2017 03:09 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:248) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/01/2017 03:09 am --> Severity: Parsing Error --> syntax error, unexpected '}', expecting ',' or ';' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 248
+ERROR - 03/01/2017 03:31 pm --> Query error: Unknown column 'total_hr' in 'field list' - Invalid query: INSERT INTO `ai_appointment_booking` (`cat_id`, `zipcode`, `helper`, `total_hr`, `job_desc`, `select_date`, `select_time`, `emailid`) VALUES ('Home-Cleaning', '452010', '1', NULL, 'ytrytry', '2017-02-01', '14:00', 'meghanaikcarol@gmail.com')
+ERROR - 03/01/2017 03:32 pm --> Query error: Unknown column 'plan_subcat' in 'field list' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE `plan_subcat` = 'Home Cleaning'
+ERROR - 03/01/2017 03:34 pm --> Query error: Unknown column 'plan_select_frequency' in 'field list' - Invalid query: SELECT `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE `plan_subcat` = 'Home Cleaning'
+ERROR - 03/01/2017 03:34 pm --> Query error: Unknown column 'plan_select_frequency' in 'field list' - Invalid query: SELECT `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE `plan_subcat` = 'Home Cleaning'
+ERROR - 03/01/2017 03:34 pm --> Query error: Unknown column 'plan_select_frequency' in 'field list' - Invalid query: SELECT `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE `plan_subcat` = 'Home Cleaning'
+ERROR - 03/01/2017 03:35 pm --> Query error: Unknown column 'plan_subcat' in 'where clause' - Invalid query: SELECT `plan_title`
+FROM `ai_plan`
+WHERE `plan_subcat` = 'Home Cleaning'
+ERROR - 03/01/2017 03:35 pm --> Severity: Notice --> Undefined property: stdClass::$plan_select_frequency /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/01/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 03/01/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/01/2017 03:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 52
+ERROR - 03/01/2017 04:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 163
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 52
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 52
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 52
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:37 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:46 pm --> Severity: Notice --> Undefined variable: plan_details /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 13
+ERROR - 03/01/2017 03:46 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/01/2017 03:46 pm --> Severity: Notice --> Undefined variable: get_service /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 03:46 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 188
+ERROR - 03/01/2017 04:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 03:47 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/01/2017 04:17 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 04:21 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 04:41 am --> 404 Page Not Found: BadroomPlan/NaN
+ERROR - 03/01/2017 04:42 am --> 404 Page Not Found: BadroomPlan/NaN
+ERROR - 03/01/2017 04:47 am --> 404 Page Not Found: BadroomPlan/NaN
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:37 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:13 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:13 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:13 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 140
+ERROR - 03/01/2017 05:13 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 140
+ERROR - 03/01/2017 05:13 pm --> Severity: Notice --> Undefined variable: tt /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 75
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:25 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 103
+ERROR - 03/01/2017 05:25 pm --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 103
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: single_items_record /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 108
+ERROR - 03/01/2017 05:25 pm --> Severity: Notice --> Undefined variable: single_items_record /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 113
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 76
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 80
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 86
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Undefined variable: pp /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 95
+ERROR - 03/01/2017 05:26 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 73
+ERROR - 03/01/2017 05:28 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:28 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:30 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 05:47 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:09 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 187
+ERROR - 03/01/2017 06:09 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 190
+ERROR - 03/01/2017 06:42 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 06:42 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:25 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:26 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:31 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:31 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:32 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:32 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:33 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:03 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 07:03 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 07:33 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:33 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:34 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:34 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:35 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:05 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 07:05 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 07:36 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 07:06 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 07:06 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 10:11 am --> 404 Page Not Found: Assets/img
+ERROR - 03/01/2017 10:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 10:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 10:18 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 10:18 am --> 404 Page Not Found: BadroomPlan/Home-Cleaning
+ERROR - 03/01/2017 09:49 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:49 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 09:51 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:51 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 09:53 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:53 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 09:53 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:53 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 09:57 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:57 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 09:58 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 09:58 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 10:00 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 10:00 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 10:01 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 10:01 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 10:01 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 234
+ERROR - 03/01/2017 10:01 pm --> Severity: Notice --> Undefined variable: badroom_id /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 235
+ERROR - 03/01/2017 10:39 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 10:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 10:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 10:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:27 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:27 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:29 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:48 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:49 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:49 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:50 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:51 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:51 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 12:51 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 01:01 pm --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/01/2017 01:01 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 01:03 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 01:03 pm --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/01/2017 01:04 pm --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/01/2017 01:04 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:05 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:39 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2017 01:40 pm --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/01/2017 01:40 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:56 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/01/2017 11:56 pm --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index

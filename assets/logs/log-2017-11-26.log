@@ -1,0 +1,29 @@
+ERROR - 11/26/2017 05:05 am --> Query error: Duplicate entry 'f8fbf4abb2f8df4bccec877d83e85768a7742063' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('f8fbf4abb2f8df4bccec877d83e85768a7742063', '180.76.15.12', 1511652904, '__ci_last_regenerate|i:1511652904;fb_1798431413741569_state|s:32:\"c165b2229fc056fce1494c1fb7f710c8\";')
+ERROR - 11/26/2017 05:05 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 11/26/2017 06:54 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 100
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Assets/js
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Images/photos
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Assets/js
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 11/26/2017 09:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 11/26/2017 10:04 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 11/26/2017 10:39 pm --> Query error: Duplicate entry 'd15d5e7df06a612b8586457d2534b1a795506bea' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d15d5e7df06a612b8586457d2534b1a795506bea', '180.76.15.148', 1511716147, '__ci_last_regenerate|i:1511716147;fb_1798431413741569_state|s:32:\"39e2544d38bc9ec52092753bac1a5aa5\";')
+ERROR - 11/26/2017 10:39 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0

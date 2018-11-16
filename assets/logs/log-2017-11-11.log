@@ -1,0 +1,15 @@
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 89
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 90
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 91
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 92
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 93
+ERROR - 11/11/2017 02:06 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeserdem/application/views/front/home.php 100
+ERROR - 11/11/2017 06:29 am --> Query error: Duplicate entry 'd05145523884e5bef429bda6e99ab997f27797a7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d05145523884e5bef429bda6e99ab997f27797a7', '180.76.15.163', 1510361994, '__ci_last_regenerate|i:1510361994;fb_1798431413741569_state|s:32:\"0ea2f8b79f88d057b0a13dff692769a6\";')
+ERROR - 11/11/2017 06:29 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 11/11/2017 01:14 pm --> Query error: Duplicate entry '2d7797a60ba370c11e2be0567e0b13934e82feed' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('2d7797a60ba370c11e2be0567e0b13934e82feed', '180.76.15.161', 1510386281, '__ci_last_regenerate|i:1510386281;fb_1798431413741569_state|s:32:\"8a23d5861655c685fff07647f253d369\";')
+ERROR - 11/11/2017 01:14 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0

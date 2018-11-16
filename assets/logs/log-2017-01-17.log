@@ -1,0 +1,18 @@
+ERROR - 01/17/2017 01:07 am --> 404 Page Not Found: Dasboard/index
+ERROR - 01/17/2017 05:53 pm --> Query error: Table 'carolhhp_services.ai_les_user' doesn't exist - Invalid query: SELECT *
+FROM `ai_les_user`
+WHERE `email` = 'anand.tiwari0211@gmail.com'
+ERROR - 01/17/2017 06:34 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Login.php:405) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/17/2017 06:34 pm --> Severity: Error --> Call to undefined method CI_Loader::views() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Login.php 405
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat5.jpg
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/17/2017 11:33 pm --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat4.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat3.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat6.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat1.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat2.jpg
+ERROR - 01/17/2017 11:34 pm --> 404 Page Not Found: Img/cat5.jpg

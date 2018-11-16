@@ -1,0 +1,40 @@
+ERROR - 03/01/2018 06:57 am --> Query error: Duplicate entry 'e1dd54ee71ab8fa0d55c3e7c4140ebaec5c72662' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('e1dd54ee71ab8fa0d55c3e7c4140ebaec5c72662', '180.76.15.163', 1519867676, '__ci_last_regenerate|i:1519867676;fb_1798431413741569_state|s:32:\"575c60c4377092ef403db385d713c587\";')
+ERROR - 03/01/2018 06:57 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 03/01/2018 04:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2018 04:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2018 04:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2018 04:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2018 04:06 am --> 404 Page Not Found: Images/admin
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/01/2018 04:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/01/2018 03:52 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_parent_id`, `cat_name`, `is_active`, `cat_picture`, `cat_id`, `cat_desc`, `meta_title`, `meta_desc`, `meta_tag`, `cat_order`, `cat_attribute`, `req_message`, `stuff`, `hourly_rate`, `required_field_1`, `stuff_1`, `required_field_2`, `staff_2`, `required_field_3`, `staff_3`, `extra`
+FROM `ai_category`
+WHERE `cat_id` = '60'
+ LIMIT 1
+ERROR - 03/01/2018 03:52 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/01/2018 03:52 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_parent_id`, `cat_name`, `is_active`, `cat_picture`, `cat_id`, `cat_desc`, `meta_title`, `meta_desc`, `meta_tag`, `cat_order`, `cat_attribute`, `req_message`, `stuff`, `hourly_rate`, `required_field_1`, `stuff_1`, `required_field_2`, `staff_2`, `required_field_3`, `staff_3`, `extra`
+FROM `ai_category`
+WHERE `cat_id` = '60'
+ LIMIT 1
+ERROR - 03/01/2018 03:52 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/01/2018 04:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/01/2018 04:22 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:22 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/01/2018 04:22 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/01/2018 04:22 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/01/2018 03:52 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_parent_id`, `cat_name`, `is_active`, `cat_picture`, `cat_id`, `cat_desc`, `meta_title`, `meta_desc`, `meta_tag`, `cat_order`, `cat_attribute`, `req_message`, `stuff`, `hourly_rate`, `required_field_1`, `stuff_1`, `required_field_2`, `staff_2`, `required_field_3`, `staff_3`, `extra`
+FROM `ai_category`
+WHERE `cat_id` = '60'
+ LIMIT 1
+ERROR - 03/01/2018 03:52 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819

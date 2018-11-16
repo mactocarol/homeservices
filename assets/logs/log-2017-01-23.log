@@ -1,0 +1,129 @@
+ERROR - 01/23/2017 11:01 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:01 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 43
+ERROR - 01/23/2017 11:01 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:08 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:08 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 43
+ERROR - 01/23/2017 11:08 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:09 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:09 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:10 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:10 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:12 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:13 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:14 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:18 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 11:20 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 40
+ERROR - 01/23/2017 11:22 am --> Severity: Warning --> Illegal string offset 'cat_parent_id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 41
+ERROR - 01/23/2017 11:25 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php:39) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 01/23/2017 11:25 am --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 41
+ERROR - 01/23/2017 11:27 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:27 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:27 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:28 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php:46) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:30 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 46
+ERROR - 01/23/2017 11:30 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:34 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php:39) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:35 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php:41) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:39 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:39 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:39 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:44 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:44 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:44 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:45 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:45 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:45 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:46 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 41
+ERROR - 01/23/2017 11:46 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 11:47 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:47 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:47 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:49 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 11:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/23/2017 11:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/23/2017 11:54 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/23/2017 12:37 am --> 404 Page Not Found: Services/index
+ERROR - 01/23/2017 12:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:08 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:16 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:17 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:18 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:20 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:20 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 12:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Home.php 39
+ERROR - 01/23/2017 12:27 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 01/23/2017 03:25 am --> 404 Page Not Found: Assets/img
+ERROR - 01/23/2017 03:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 03:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 03:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 03:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/23/2017 03:27 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/23/2017 06:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/23/2017 07:53 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:16 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:17 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 08:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:32 am --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 08:32 am --> 404 Page Not Found: Images/photos
+ERROR - 01/23/2017 11:27 pm --> 404 Page Not Found: Assets/img
+ERROR - 01/23/2017 11:27 pm --> 404 Page Not Found: Assets/js
+ERROR - 01/23/2017 11:27 pm --> 404 Page Not Found: Images/photos

@@ -1,0 +1,495 @@
+ERROR - 02/21/2017 12:19 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:19 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:21 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:21 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:21 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:26 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:26 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:32 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:33 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:33 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:04 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 49
+ERROR - 02/21/2017 12:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:35 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:35 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:37 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:37 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:08 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 49
+ERROR - 02/21/2017 12:40 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:116) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 12:40 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 116
+ERROR - 02/21/2017 12:40 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:40 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:40 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:40 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:11 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 49
+ERROR - 02/21/2017 12:11 pm --> Query error: Column 'plan_unitprice' cannot be null - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_subcat`, `plan_unitprice`, `plan_status`, `Plan_date`, `plan_select_frequency`, `extras_field`) VALUES ('user for cleanning', '18', '28', NULL, '1', '2017-02-21', '[{\"plan_duration_inmonth\":\"3\",\"plan_duration_indays\":\"90\",\"plan_duration_offer\":\"20\"},{\"plan_duration_inmonth\":\"6\",\"plan_duration_indays\":\"180\",\"plan_duration_offer\":\"20\"}]', '[{\"extras_title\":\"planning\",\"extras_price\":\"20\"},{\"extras_title\":\"absoult\",\"extras_price\":null}]')
+ERROR - 02/21/2017 12:11 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 12:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:42 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:42 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:46 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:48 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:48 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:50 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:50 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:00 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:01 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:03 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:13 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 12:44 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 101
+ERROR - 02/21/2017 01:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:14 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:14 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/21/2017 01:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/21/2017 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:08 pm --> Query error: Unknown column 'cat_name' in 'field list' - Invalid query: SELECT `cat_name`
+FROM `ai_plan`
+WHERE cat_id IS NULL
+ERROR - 02/21/2017 01:08 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 01:08 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:38 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:39 am --> 404 Page Not Found: Plan/index
+ERROR - 02/21/2017 01:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:40 am --> 404 Page Not Found: Plan/index
+ERROR - 02/21/2017 01:10 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:42 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 21
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 21
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 20
+ERROR - 02/21/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 21
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:43 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:44 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 01:57 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:02 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 02:02 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 02:04 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/img
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/img
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 03:54 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 03:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 03:45 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 50
+ERROR - 02/21/2017 03:47 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 136
+ERROR - 02/21/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 04:29 am --> 404 Page Not Found: Assets/js
+ERROR - 02/21/2017 04:29 am --> 404 Page Not Found: Images/photos
+ERROR - 02/21/2017 04:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 04:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 04:55 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 04:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 04:57 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 04:59 am --> 404 Page Not Found: front/Service/booking
+ERROR - 02/21/2017 04:59 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 05:00 am --> 404 Page Not Found: front/Service/booking
+ERROR - 02/21/2017 05:04 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 05:08 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rhis /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 04:54 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 04:54 pm --> Severity: Error --> Call to a member function post() on null /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 04:56 pm --> Severity: Notice --> Undefined variable: rhis /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 04:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 04:56 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 04:56 pm --> Severity: Error --> Call to a member function post() on null /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:28 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 05:02 pm --> Severity: Notice --> Undefined variable: rhis /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:02 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 05:02 pm --> Severity: Error --> Call to a member function post() on null /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:04 pm --> Severity: Notice --> Undefined variable: rhis /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 05:04 pm --> Severity: Error --> Call to a member function post() on null /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 75
+ERROR - 02/21/2017 05:05 pm --> Severity: Notice --> Use of undefined constant Booking - assumed 'Booking' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 84
+ERROR - 02/21/2017 05:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:79) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 02/21/2017 05:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:79) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 02/21/2017 05:38 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 06:22 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:146) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:22 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 146
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:13 pm --> Query error: Column 'zipcode' cannot be null - Invalid query: INSERT INTO `ai_appointment_booking` (`zipcode`, `service_details`, `helper`, `job_desc`, `select_date`, `select_time`, `emailid`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:48 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 06:54 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:54 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:54 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:54 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:54 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:54 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:55 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:55 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:55 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:55 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:25 pm --> Severity: Notice --> Undefined variable: days /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 06:56 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/21/2017 06:56 am --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 80
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:33 pm --> Severity: Notice --> A non well formed numeric value encountered /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 85
+ERROR - 02/21/2017 06:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 06:37 pm --> Severity: Notice --> Undefined index: $date /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 85
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:13 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/21/2017 07:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 07:37 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/21/2017 08:04 am --> 404 Page Not Found: Img/payment-strip.png

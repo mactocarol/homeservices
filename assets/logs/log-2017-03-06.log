@@ -1,0 +1,411 @@
+ERROR - 03/06/2017 11:09 am --> Query error: Column 'plan_hr_badroom' cannot be null - Invalid query: INSERT INTO `ai_appointment_booking` (`cat_id`, `zipcode`, `plan_hr_badroom`, `plan_hr_bathroom`, `helper`, `job_desc`, `select_date`, `select_time`, `emailid`) VALUES ('Pictures-Shelves', '452010', NULL, NULL, NULL, NULL, '2017-02-02', '05:30:00am', NULL)
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 123
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 11:17 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 11:46 am --> Query error: Column 'plan_hr_badroom' cannot be null - Invalid query: INSERT INTO `ai_appointment_booking` (`cat_id`, `zipcode`, `plan_hr_badroom`, `plan_hr_bathroom`, `helper`, `job_desc`, `select_date`, `select_time`, `emailid`) VALUES ('Pictures-Shelves', '452010', NULL, NULL, NULL, NULL, '2017-02-02', '05:30:00am', '')
+ERROR - 03/06/2017 11:58 am --> Query error: Column 'plan_hr_badroom' cannot be null - Invalid query: INSERT INTO `ai_appointment_booking` (`cat_id`, `zipcode`, `plan_hr_badroom`, `plan_hr_bathroom`, `helper`, `job_desc`, `select_date`, `select_time`, `emailid`) VALUES ('Pictures-Shelves', '452010', NULL, NULL, NULL, NULL, '2017-02-02', '05:30:00am', 'meghanaikcarol@gmail.com')
+ERROR - 03/06/2017 12:51 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:154) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 12:51 am --> Severity: Parsing Error --> syntax error, unexpected 'else' (T_ELSE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 154
+ERROR - 03/06/2017 12:51 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:154) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 12:51 am --> Severity: Parsing Error --> syntax error, unexpected 'else' (T_ELSE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 154
+ERROR - 03/06/2017 12:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 12:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 12:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 12:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 12:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 12:53 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 12:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_parnt_img /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 7
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 9
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Undefined variable: single_cate /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 01:10 am --> 404 Page Not Found: front/Service/single_service
+ERROR - 03/06/2017 12:49 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:79) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:80) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 01:21 am --> 404 Page Not Found: front/Service/check_price
+ERROR - 03/06/2017 01:22 am --> 404 Page Not Found: Plan/Handyman
+ERROR - 03/06/2017 01:23 am --> 404 Page Not Found: Plan/Handyman
+ERROR - 03/06/2017 01:24 am --> 404 Page Not Found: Plan/HandymanPictures-Shelves
+ERROR - 03/06/2017 01:24 am --> 404 Page Not Found: Plan/HandymanPictures-Shelves
+ERROR - 03/06/2017 01:29 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:340) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 01:29 am --> Severity: Parsing Error --> syntax error, unexpected '$where_cat' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 340
+ERROR - 03/06/2017 01:30 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:340) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 01:30 am --> Severity: Parsing Error --> syntax error, unexpected '$where_cat' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 340
+ERROR - 03/06/2017 01:31 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 01:31 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 01:40 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 03/06/2017 01:10 pm --> Severity: Notice --> Undefined variable: gotted_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 344
+ERROR - 03/06/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 01:11 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 11
+ERROR - 03/06/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 11
+ERROR - 03/06/2017 02:50 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 02:50 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 02:53 am --> 404 Page Not Found: Assets/img
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Assets/img
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 02:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 02:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 02:56 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 02:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 10
+ERROR - 03/06/2017 02:27 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 11
+ERROR - 03/06/2017 02:44 pm --> Severity: Notice --> Undefined variable: single_items_record /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 41
+ERROR - 03/06/2017 02:44 pm --> Severity: Notice --> Undefined variable: single_items_record /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_service.php 43
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 03:29 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:180) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 03:29 am --> Severity: Parsing Error --> syntax error, unexpected ')' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 180
+ERROR - 03/06/2017 03:29 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:180) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 03:29 am --> Severity: Parsing Error --> syntax error, unexpected ')' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 180
+ERROR - 03/06/2017 03:29 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:180) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 03:29 am --> Severity: Parsing Error --> syntax error, unexpected ')' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 180
+ERROR - 03/06/2017 03:29 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:180) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 03:29 am --> Severity: Parsing Error --> syntax error, unexpected ')' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 180
+ERROR - 03/06/2017 03:35 am --> 404 Page Not Found: Plan/Handyman
+ERROR - 03/06/2017 03:05 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:35 am --> 404 Page Not Found: Booking/img
+ERROR - 03/06/2017 03:05 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 03:41 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:340) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 03:41 am --> Severity: Parsing Error --> syntax error, unexpected '}' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 340
+ERROR - 03/06/2017 03:12 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:12 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 03:13 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:13 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 03:44 am --> 404 Page Not Found: BookingPlan/index
+ERROR - 03/06/2017 03:16 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:16 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 03:17 pm --> Severity: Notice --> Use of undefined constant Cleaning - assumed 'Cleaning' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 178
+ERROR - 03/06/2017 03:17 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/06/2017 03:48 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 03:48 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 03:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 03:49 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 03:51 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 03:51 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 04:10 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 04:10 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 04:12 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 04:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 04:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 04:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 04:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 04:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 04:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 04:44 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 04:44 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 04:52 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 04:52 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 04:59 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 03/06/2017 05:13 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 05:13 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:15 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:322) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 05:15 am --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting '(' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 322
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 05:21 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 05:32 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 05:32 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 05:02 pm --> Severity: Notice --> Undefined variable: all_country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 50
+ERROR - 03/06/2017 05:04 pm --> Severity: Notice --> Undefined variable: all_country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 50
+ERROR - 03/06/2017 05:04 pm --> Severity: Notice --> Undefined variable: all_country /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 420
+ERROR - 03/06/2017 05:04 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 50
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 05:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 05:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:51 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:52 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:55 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:55 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:56 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:57 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:57 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: BookingPlan/weekly
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 05:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 05:59 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 05:59 am --> 404 Page Not Found: BookingPlan/weekly
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 06:00 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 06:01 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:01 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:01 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:01 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:01 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 06:02 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 06:02 am --> 404 Page Not Found: BookingPlan/weekly
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:06 am --> 404 Page Not Found: BookingPlan/-
+ERROR - 03/06/2017 06:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:09 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 06:09 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 271
+ERROR - 03/06/2017 06:20 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:20 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:20 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:21 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:21 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:21 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:21 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: catname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 420
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: catname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 424
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: cat_name /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 427
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: iiid /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 427
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: catname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 420
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: catname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 424
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: cat_name /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 427
+ERROR - 03/06/2017 06:02 pm --> Severity: Notice --> Undefined variable: iiid /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 427
+ERROR - 03/06/2017 06:35 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:35 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:35 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:36 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:36 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:36 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:36 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:38 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:38 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:12 pm --> Query error: Unknown column 'zipcode' in 'where clause' - Invalid query: SELECT `country`, `city`
+FROM `ai_locations`
+WHERE `zipcode` = '452010'
+ LIMIT 1
+ERROR - 03/06/2017 06:12 pm --> Query error: Unknown column 'zipcode' in 'where clause' - Invalid query: SELECT `country`, `city`
+FROM `ai_locations`
+WHERE `zipcode` = '452010'
+ LIMIT 1
+ERROR - 03/06/2017 06:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:45 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:49 am --> 404 Page Not Found: front/Service/booking
+ERROR - 03/06/2017 06:49 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:51 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:51 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:22 pm --> Severity: Notice --> Undefined variable: country /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 46
+ERROR - 03/06/2017 06:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 46
+ERROR - 03/06/2017 06:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/06/2017 06:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:53 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:58 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 06:58 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 06:58 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:58 am --> 404 Page Not Found: BookingPlan/index
+ERROR - 03/06/2017 06:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 06:59 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:01 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:01 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:01 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:01 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:03 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:05 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/06/2017 07:05 am --> Severity: Parsing Error --> syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:06 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:11 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:12 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:12 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/06/2017 07:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 11:47 pm --> 404 Page Not Found: Assets/img
+ERROR - 03/06/2017 11:47 pm --> 404 Page Not Found: Assets/img
+ERROR - 03/06/2017 11:47 pm --> 404 Page Not Found: Assets/js
+ERROR - 03/06/2017 11:47 pm --> 404 Page Not Found: Images/photos

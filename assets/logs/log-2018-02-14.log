@@ -1,0 +1,428 @@
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587286, '__ci_last_regenerate|i:1518587286;emailid|s:24:\"mss.parvezkhan@gmail.com\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587291, '__ci_last_regenerate|i:1518587291;')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587292, '__ci_last_regenerate|i:1518587292;')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587294, '__ci_last_regenerate|i:1518587294;fb_1798431413741569_state|s:32:\"cb84770e28b0b8acfd1a3bae0a1d8ab8\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587296, '__ci_last_regenerate|i:1518587296;fb_1798431413741569_state|s:32:\"65964be5c4211608eda4b46799acfa8e\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587299, '__ci_last_regenerate|i:1518587299;fb_1798431413741569_state|s:32:\"3dce5efe3788df132cd5da5666e6408e\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587303, '__ci_last_regenerate|i:1518587303;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:15:\"Office-cleaning\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587303, '__ci_last_regenerate|i:1518587303;')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587312, '__ci_last_regenerate|i:1518587312;fb_1798431413741569_state|s:32:\"1b2ee9907180f0373bd8dd40f5ce52d8\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587318, '__ci_last_regenerate|i:1518587318;fb_1798431413741569_state|s:32:\"91537d0bbef3016347a8218335c29a0c\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587322, '__ci_last_regenerate|i:1518587322;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:18 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587323, '__ci_last_regenerate|i:1518587323;')
+ERROR - 02/14/2018 11:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:23 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587594, '__ci_last_regenerate|i:1518587594;')
+ERROR - 02/14/2018 11:23 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:23 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587626, '__ci_last_regenerate|i:1518587626;')
+ERROR - 02/14/2018 11:23 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:24 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587667, '__ci_last_regenerate|i:1518587667;')
+ERROR - 02/14/2018 11:24 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:24 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587691, '__ci_last_regenerate|i:1518587691;')
+ERROR - 02/14/2018 11:24 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:24 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587696, '__ci_last_regenerate|i:1518587696;fb_1798431413741569_state|s:32:\"5a16dce42bba5834fb458738572eef9e\";')
+ERROR - 02/14/2018 11:24 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:25 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587701, '__ci_last_regenerate|i:1518587701;fb_1798431413741569_state|s:32:\"a378e40dbd80da82b65e8a6703c78ad2\";')
+ERROR - 02/14/2018 11:25 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:25 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587704, '__ci_last_regenerate|i:1518587704;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:25 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:25 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587705, '__ci_last_regenerate|i:1518587704;')
+ERROR - 02/14/2018 11:25 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:25 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587708, '__ci_last_regenerate|i:1518587708;fb_1798431413741569_state|s:32:\"df97c11d2f1a85f1ce64a28122bc6c2e\";')
+ERROR - 02/14/2018 11:25 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:25 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587752, '__ci_last_regenerate|i:1518587752;fb_1798431413741569_state|s:32:\"ea574f9d832dcea21a2379d4f8088755\";')
+ERROR - 02/14/2018 11:25 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:26 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587817, '__ci_last_regenerate|i:1518587817;fb_1798431413741569_state|s:32:\"935dc56870bc68ce6d6148698271d1f8\";')
+ERROR - 02/14/2018 11:26 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:27 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587821, '__ci_last_regenerate|i:1518587821;fb_1798431413741569_state|s:32:\"f3486362e0701ec64c6d44de394e4801\";')
+ERROR - 02/14/2018 11:27 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:27 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587868, '__ci_last_regenerate|i:1518587868;fb_1798431413741569_state|s:32:\"0dd6bbcd633824df62a5c3b1c889def2\";')
+ERROR - 02/14/2018 11:27 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587893, '__ci_last_regenerate|i:1518587893;fb_1798431413741569_state|s:32:\"3f41727f9f208ed4a969913720f30283\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587896, '__ci_last_regenerate|i:1518587896;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587897, '__ci_last_regenerate|i:1518587897;')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587919, '__ci_last_regenerate|i:1518587918;')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587920, '__ci_last_regenerate|i:1518587920;fb_1798431413741569_state|s:32:\"66e43a2c23234ee9d8565845c847f95d\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587925, '__ci_last_regenerate|i:1518587925;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587925, '__ci_last_regenerate|i:1518587925;')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587928, '__ci_last_regenerate|i:1518587928;fb_1798431413741569_state|s:32:\"65b5a57745ed6b4a5bd9501553d415d7\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587928, '__ci_last_regenerate|i:1518587928;fb_1798431413741569_state|s:32:\"79c6dd49a3a47168ea5e51cb09e763e3\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587931, '__ci_last_regenerate|i:1518587931;fb_1798431413741569_state|s:32:\"0134d52cd1521310a7f0846968d6ebac\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:28 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587935, '__ci_last_regenerate|i:1518587935;fb_1798431413741569_state|s:32:\"54550fb2b7d2cbb4ffaea84cefe5c234\";')
+ERROR - 02/14/2018 11:28 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:29 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518587999, '__ci_last_regenerate|i:1518587999;fb_1798431413741569_state|s:32:\"a573c05e627f77ab9bf33bc466a40d31\";')
+ERROR - 02/14/2018 11:29 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588003, '__ci_last_regenerate|i:1518588003;fb_1798431413741569_state|s:32:\"10bee46eb5716426deb608f5778c9840\";')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588006, '__ci_last_regenerate|i:1518588006;fb_1798431413741569_state|s:32:\"2f3f4e561d27fd40a89bc3ac60ed7cb5\";')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588031, '__ci_last_regenerate|i:1518588031;fb_1798431413741569_state|s:32:\"2a8e23261d63f091ceee70fb5d59cbea\";')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588035, '__ci_last_regenerate|i:1518588035;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"a44c7a52f2050eb72e3e4d26a498f2c4\";')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588047, '__ci_last_regenerate|i:1518588047;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:30 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588047, '__ci_last_regenerate|i:1518588047;')
+ERROR - 02/14/2018 11:30 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:34 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588262, '__ci_last_regenerate|i:1518588262;')
+ERROR - 02/14/2018 11:34 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:34 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588264, '__ci_last_regenerate|i:1518588264;')
+ERROR - 02/14/2018 11:34 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:34 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588268, '__ci_last_regenerate|i:1518588268;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"86983a10a405f952a9f8e22b9dde9542\";')
+ERROR - 02/14/2018 11:34 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:34 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588272, '__ci_last_regenerate|i:1518588272;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:34 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:35 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588307, '__ci_last_regenerate|i:1518588307;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:35 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:35 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588308, '__ci_last_regenerate|i:1518588308;')
+ERROR - 02/14/2018 11:35 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:36 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588361, '__ci_last_regenerate|i:1518588361;')
+ERROR - 02/14/2018 11:36 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:36 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588412, '__ci_last_regenerate|i:1518588412;')
+ERROR - 02/14/2018 11:36 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:36 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588415, '__ci_last_regenerate|i:1518588415;')
+ERROR - 02/14/2018 11:36 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:37 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588447, '__ci_last_regenerate|i:1518588447;')
+ERROR - 02/14/2018 11:37 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:37 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588452, '__ci_last_regenerate|i:1518588452;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"10b2b4b12f43eeae7237a13404fe41bc\";')
+ERROR - 02/14/2018 11:37 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:37 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588459, '__ci_last_regenerate|i:1518588459;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"fc9f504265398143c4fdbf01bc853dd6\";')
+ERROR - 02/14/2018 11:37 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:37 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588462, '__ci_last_regenerate|i:1518588462;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:13:\"Home-Cleaning\";')
+ERROR - 02/14/2018 11:37 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:37 am --> Query error: Duplicate entry '81c6d033b3c8dd5c8914e7777acb81adf0da8366' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('81c6d033b3c8dd5c8914e7777acb81adf0da8366', '122.168.205.164', 1518588463, '__ci_last_regenerate|i:1518588463;')
+ERROR - 02/14/2018 11:37 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/14/2018 11:38 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:448) /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 4
+ERROR - 02/14/2018 12:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:13 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:17 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:17 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:18 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 11:50 am --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 447
+ERROR - 02/14/2018 11:50 am --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 448
+ERROR - 02/14/2018 11:58 am --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 11:58 am --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:07 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:07 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:07 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:08 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:08 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 12:09 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:09 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 36
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 33
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 34
+ERROR - 02/14/2018 12:16 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price_bk.php 36
+ERROR - 02/14/2018 12:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 12:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:04 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:43 am --> 404 Page Not Found: Check_price/Cleaning
+ERROR - 02/14/2018 01:43 am --> 404 Page Not Found: Check_price/Cleaning
+ERROR - 02/14/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:43 am --> 404 Page Not Found: Check_price/Cleaning
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: CheckPrice/Cleaning
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: CheckPrice/Cleaning
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:44 am --> 404 Page Not Found: CheckPrice/Cleaning
+ERROR - 02/14/2018 01:45 am --> 404 Page Not Found: CheckPrice/Cleaning
+ERROR - 02/14/2018 01:45 am --> 404 Page Not Found: CheckPrice/Cleaning
+ERROR - 02/14/2018 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:47 am --> 404 Page Not Found: Check_price1/Cleaning
+ERROR - 02/14/2018 01:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:06 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:10 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:12 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 02:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 01:44 pm --> Severity: Parsing Error --> syntax error, unexpected '<' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 25
+ERROR - 02/14/2018 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:26 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:27 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 03:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:50 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:50 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:27 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 997
+ERROR - 02/14/2018 03:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:28 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 997
+ERROR - 02/14/2018 03:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:29 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 997
+ERROR - 02/14/2018 03:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 03:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 04:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 04:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/14/2018 07:15 am --> 404 Page Not Found: Assets/front

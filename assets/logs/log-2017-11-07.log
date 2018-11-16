@@ -1,0 +1,39 @@
+ERROR - 11/07/2017 05:18 am --> Query error: Duplicate entry 'cf27987b1cef1c31cfb33c53ece90933d83158a0' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('cf27987b1cef1c31cfb33c53ece90933d83158a0', '180.76.15.141', 1510012109, '__ci_last_regenerate|i:1510012109;fb_1798431413741569_state|s:32:\"1ed22fd46e70aaea25a3dd251a4687bb\";')
+ERROR - 11/07/2017 05:18 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 11/07/2017 05:51 am --> Query error: Duplicate entry '899d9b6a466e9735c1d6cac3f1bb2e71e5272164' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('899d9b6a466e9735c1d6cac3f1bb2e71e5272164', '180.76.15.136', 1510014109, '__ci_last_regenerate|i:1510014109;fb_1798431413741569_state|s:32:\"b79f349a6cb58f1e6f21af88beab7a90\";')
+ERROR - 11/07/2017 05:51 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 11/07/2017 11:24 am --> Query error: Duplicate entry '4f24b2c56dc6d2e7dd23dea4006b839a14065bf9' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('4f24b2c56dc6d2e7dd23dea4006b839a14065bf9', '180.76.15.27', 1510034097, '__ci_last_regenerate|i:1510034097;fb_1798431413741569_state|s:32:\"0d25d46b1af51176c803d1c5fa1f4f89\";')
+ERROR - 11/07/2017 11:24 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:48 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 11/07/2017 05:53 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:55 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:55 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:56 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 05:59 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:01 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:02 am --> 404 Page Not Found: Bootstrapmincssmap/index
+ERROR - 11/07/2017 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:21 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:21 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:21 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:21 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:28 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 11/07/2017 08:05 pm --> Query error: Duplicate entry 'f00477df0422cd54f2f0cd929c2763a2d8079271' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('f00477df0422cd54f2f0cd929c2763a2d8079271', '180.76.15.33', 1510065316, '__ci_last_regenerate|i:1510065316;fb_1798431413741569_state|s:32:\"f1a820457eba3d52c40227f72c04ce70\";')
+ERROR - 11/07/2017 08:05 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0

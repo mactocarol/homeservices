@@ -1,0 +1,134 @@
+@media only screen and (max-width:1280px)
+{
+	  .left_about {  height: auto !important;}
+	  .about_history{background:transparent !important;}
+}
+@media only screen and (max-width:1200px)
+{    
+.mega-dropdown-menu { max-height: 185px;  overflow-y: scroll;}
+	 #cms-page-title {  margin-top: 126px !important;}
+	 .main-body-container { margin-top: 67px !important;}
+	 .pro-header {padding: 35px 0 !important;}
+	 .pro-header-text h1 { margin: 0 auto !important;}
+	 .pro-header-text {padding-top: 28px;}
+	 .numbers-row > input:nth-child(2) { width: 50% !important;}
+}
+@media only screen and (max-width:1170px)
+
+{.mid_right {
+  margin-left: 80px !important;
+  padding: 14px 0;
+}
+	.venderreg_personal {
+  margin: 104px auto !important;
+
+}
+label {
+  display: inline-block;
+  font-weight: 500 !important;
+  margin-bottom: 5px;
+  max-width: 100%;
+}
+	.price_main_pages { margin-top: 118px !important;}
+	.finalize_dv {margin-top: 147px !important;}
+	.dropdown-menu .col-sm-2 {
+  margin-right: 11px;
+  width: 18% !important;
+}
+}
+@media only screen and (max-width:966px){
+	
+
+
+
+.stzip {
+  float: left;
+  width: 100% !important;
+}
+.top_left li { padding: 7px 20px 7px 0 !important;}
+.mid_right { margin-left: 0 !important;}
+.home_proje_inner{margin-bottom:30px;}
+.col-md-6.col-sm-6.about_history_left {width: 100%;}
+.col-md-6.col-sm-6.about_history_right, .col-md-6.col-sm-6.about_history_left {padding: 15px !important; width: 100%;}
+.bottom_header .nav li a {  padding: 10px !important;}
+ .slider.main_pages > img {
+  height: auto !important;
+}
+}
+@media only screen and (max-width:800px){
+.header-text { position: relative !important;  width: 100%;}
+.form_bottom .form-group { width: 100% !important;}
+}
+@media only screen and (max-width:767px){
+	.venderreg_personal {
+  
+  width: 100% !important;
+}
+.exp-q-select {
+  float: left;
+  width: 100% !important;
+}
+.exp-line .col-md-12.vendor {
+  margin-top: 10px;
+  padding: 0;
+}
+	.mid_right > li { float: left; list-style: outside none none; margin-bottom: 20px;}    .col-md-12.vendor { float: left; width: 100% !important;}
+     .mid_right > li { margin-left: 10px !important;}
+	.mega-dropdown-menu { max-height: 185px;  overflow-y: scroll;}
+	.price_main_pages {margin-top: 75px !important;}
+	.finalize_dv { margin-top: 90px !important;}
+	.main-body-container {margin-top: 22px !important;}
+	.top_right li {padding: 7px 0 7px 15px !important;}
+	.pull-right.top_right {  float: left !important; padding: 0 !important;  width: 100% !important;}
+	#sign_up .btn.btn-default.loginbtn {margin-top: 30px !important;}
+	#sign_up .margin_20 { margin-bottom: 0 !important;  margin-top: 10px !important;}
+	.bloc > span { display: none;}
+   .single_blog_ul {  margin-top: 40px !important;}
+   .login_inner { width: 78% !important;}
+	#cms-page-title {  margin-top: 85px !important;}
+.top_left li { padding: 7px 20px 7px 0 !important;}
+.mid_right { margin-left: 0 !important;}
+.home_proje_inner{margin-bottom:30px;}
+.pull-right.top_right{padding-right: 15px;}
+.pull-left.top_left {padding-left: 15px;}
+nav { width: 100%;}
+.navbar-header img {  width: 189px !important;}
+.navbar-collapse.pull-left.collapse.in{width:100%;}
+.navbar-collapse { padding-left: 0  !important; padding-right: 0 !important;}
+.dropdown-menu .col-sm-2 {  width: 100% !important;}
+.pull-right.mid_right { float: left !important;width: 94%;}
+.mid_right > li { margin-left: 15px !important; padding-bottom: 12px;  width: 100%;}
+.navbar-nav { margin: 7.5px 0 !important;}
+.owl-dots { display: none;}
+}
+@media only screen and (max-width:690px)
+{
+	.checkprice { padding: 60px 15px; position: relative !important;  right: 0 !important;  top: 0 !important;  width: 100%;}
+	.checkprice li {  color: hsl(0, 0%, 31%) !important; font-size: 16px !important;}
+}
+@media only screen and (max-width:603px){
+	.nav.nav-tabs.price_btns > li { margin-bottom: 15px; width: 100% !important;}
+	.Complete_Booking {width: 70% !important;}
+}
+@media only screen and (max-width:533px){
+	.payment-info-block-row > ul li{  margin-top: 24px !important;  width: 30% !important;}
+}
+@media only screen and (max-width:480px){
+	.membership_planes_payment {
+  margin: 0 auto;
+  width: 100% !important;
+}
+	.push-top.center.btn-default.btn-facebook {width: 100% !important;}
+	.login_inner {width: 100% !important;}
+	.requirements {width: 100% !important;}
+	.pro-row-wrapper {text-align:left;}
+	.pro-header-text h1 { font-size: 27px !important;}
+	.pro-content-wrapper.pad-top { width: 100% !important;}
+	.pro-header-img { background-image: none !important;}
+	#code { width: 100% !important;}
+	.priceavailability{margin-top:15px;}
+}
+@media only screen and (max-width:375px){
+	.testimony-content {padding: 20px 0 !important; width: 100% !important;}
+	.payment-info-block-row > ul li{  margin-top: 24px !important;  width: 100% !important;}
+}

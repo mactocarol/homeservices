@@ -1,0 +1,713 @@
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 06:07 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 06:31 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 11:51 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 11:53 am --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/img
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/img
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:25 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:25 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:30 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 01:30 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 01:30 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:00 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:45 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:16 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 01:53 am --> 404 Page Not Found: Assets/img
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 01:54 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_three_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 82
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 83
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_six_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 86
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 87
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Undefined property: stdClass::$plan_twevele_month /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 89
+ERROR - 04/07/2017 12:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/booking/manage_booking.php 90
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:28 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:29 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:31 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 12:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 12:48 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 02:23 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 02:23 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 02:35 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 02:35 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 454
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 455
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 457
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 458
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 460
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 461
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 463
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 464
+ERROR - 04/07/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 477
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 494
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 495
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 497
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 498
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 498
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 500
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 501
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 501
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 503
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 504
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 504
+ERROR - 04/07/2017 01:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 518
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 494
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 495
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 497
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 498
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 498
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 500
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 501
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 501
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 503
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 504
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 504
+ERROR - 04/07/2017 01:13 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 518
+ERROR - 04/07/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 02:47 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 615
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 616
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 619
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 619
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 622
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 622
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 625
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 625
+ERROR - 04/07/2017 01:18 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 639
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:19 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 01:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 03:00 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 02:38 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 02:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:07 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 04:37 am --> 404 Page Not Found: Service/payment
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 617
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 618
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 620
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 621
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 623
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 624
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 626
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 627
+ERROR - 04/07/2017 03:20 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 641
+ERROR - 04/07/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 04/07/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:10 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 423
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 424
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 426
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 427
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 427
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 429
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 430
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 430
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 432
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 433
+ERROR - 04/07/2017 06:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 433
+ERROR - 04/07/2017 08:13 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:13 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:14 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:15 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:17 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 08:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 07:06 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:00 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 09:03 am --> 404 Page Not Found: Assets/front
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 04/07/2017 10:36 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100

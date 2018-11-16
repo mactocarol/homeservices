@@ -1,0 +1,109 @@
+ERROR - 01/19/2017 02:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/services.php 11
+ERROR - 01/19/2017 03:01 pm --> Severity: Notice --> Undefined index: cat_desc /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/services.php 12
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Assets/img
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/19/2017 04:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/19/2017 04:43 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 04:43 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 04:43 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 04:43 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 04:45 pm --> Query error: Unknown column 'Regular' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = Regular%20cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 04:47 pm --> Query error: Unknown column 'Regular' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = Regular%20cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 04:48 pm --> Query error: Unknown column 'Regular' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = Regular-cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 04:48 pm --> Query error: Unknown column 'Regular' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = Regular-cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 04:50 pm --> Query error: Unknown column 'one' in 'where clause' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = one-off-deep-cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 04:51 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cleaning
+AND is_active = 'active'' at line 3 - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_category`
+WHERE cat_name = Regular cleaning
+AND is_active = 'active'
+ERROR - 01/19/2017 05:32 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 05:32 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 05:35 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 05:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/19/2017 05:12 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/19/2017 05:42 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 05:49 am --> 404 Page Not Found: Services/Cleaning
+ERROR - 01/19/2017 06:08 am --> 404 Page Not Found: Assets/categoy
+ERROR - 01/19/2017 06:08 am --> 404 Page Not Found: Assets/categoy
+ERROR - 01/19/2017 05:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 10
+ERROR - 01/19/2017 05:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 16
+ERROR - 01/19/2017 05:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 19
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 06:12 am --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 06:12 am --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 05:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 57
+ERROR - 01/19/2017 11:33 pm --> 404 Page Not Found: Assets/img
+ERROR - 01/19/2017 11:33 pm --> 404 Page Not Found: Assets/img
+ERROR - 01/19/2017 11:33 pm --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 11:33 pm --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Assets/js
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Images/photos
+ERROR - 01/19/2017 11:35 pm --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/19/2017 11:59 pm --> 404 Page Not Found: Assets/front

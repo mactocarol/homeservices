@@ -1,0 +1,1410 @@
+ERROR - 01/07/2017 10:54 am --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 37
+ERROR - 01/07/2017 10:54 am --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 38
+ERROR - 01/07/2017 10:54 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 38
+ERROR - 01/07/2017 10:55 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 44
+ERROR - 01/07/2017 10:55 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 44
+ERROR - 01/07/2017 10:59 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 44
+ERROR - 01/07/2017 10:59 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 44
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: cat_update /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 11
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:02 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 70
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: cat_update /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 11
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:02 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 70
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: cat_update /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 11
+ERROR - 01/07/2017 11:02 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:02 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:03 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 71
+ERROR - 01/07/2017 11:03 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:03 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 71
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: data /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 71
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:04 am --> Severity: Notice --> Undefined property: Categories::$commom_model /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 66
+ERROR - 01/07/2017 11:04 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/services/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/services/system/core/Common.php 573
+ERROR - 01/07/2017 11:04 am --> Severity: Error --> Call to a member function update_entry() on null /home2/carolhhp/public_html/democarol.com/services/application/controllers/Categories.php 66
+ERROR - 01/07/2017 11:05 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:05 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:11 am --> Query error: Unknown column 'cat_name' in 'field list' - Invalid query: SELECT `cat_name`, `is_active`, `cat_picture`, `phone`, `address`, `status`, `type`
+FROM `ai_user`
+WHERE `cat_id` = '6'
+ LIMIT 1
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Undefined variable: fetch_details /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 32
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 32
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:13 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Undefined variable: fetch_details /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 32
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 32
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:13 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:13 am --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:13 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 11:15 am --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/manage_categories.php 37
+ERROR - 01/07/2017 11:15 am --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/manage_categories.php 38
+ERROR - 01/07/2017 11:15 am --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/manage_categories.php 38
+ERROR - 01/07/2017 11:29 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 11:29 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 11:33 am --> Unable to load the requested class: CKFinder
+ERROR - 01/07/2017 11:35 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 11:35 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 11:37 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 11:42 am --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 11:43 am --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:13 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 11:43 am --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:14 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:14 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:14 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:14 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:14 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 11:44 am --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 11:47 am --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:31 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:11 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:13 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:15 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:17 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:48 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:48 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:48 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:48 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:48 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:49 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:50 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:50 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:50 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:50 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:50 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 12:21 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:21 pm --> Severity: Parsing Error --> syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 70
+ERROR - 01/07/2017 12:22 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:22 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:22 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 66
+ERROR - 01/07/2017 12:22 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 66
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:52 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:24 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:25 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:25 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 66
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 66
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:25 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 78
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 78
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 93
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 93
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 105
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 105
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 117
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 117
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 129
+ERROR - 01/07/2017 12:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 129
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:55 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:25 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:26 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 78
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 78
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 93
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 93
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 105
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 105
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 117
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 117
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: cat_record /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 129
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 129
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:26 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:26 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:56 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:57 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:28 pm --> The path to the image is not correct.
+ERROR - 01/07/2017 12:28 pm --> Your server does not support the GD function required to process this type of image.
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 12:58 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:28 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:29 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:32 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 12:32 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:08 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:39 pm --> The path to the image is not correct.
+ERROR - 01/07/2017 12:39 pm --> Your server does not support the GD function required to process this type of image.
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:45 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:45 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:45 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:45 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 12:45 pm --> Severity: Notice --> Undefined variable: parent /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 12:45 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/edit_categories.php 47
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 12:46 pm --> The path to the image is not correct.
+ERROR - 01/07/2017 12:46 pm --> Your server does not support the GD function required to process this type of image.
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:16 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 12:48 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:13 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:43 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:43 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:43 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 01:13 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:14 pm --> Severity: Notice --> Uninitialized string offset: 6 /home2/carolhhp/public_html/democarol.com/services/application/views/admin/categories/manage_categories.php 43
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:15 pm --> Severity: Notice --> Undefined property: CI_Loader::$ckeditor /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/add_page.php 19
+ERROR - 01/07/2017 01:15 pm --> Severity: Error --> Call to a member function editor() on null /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/add_page.php 19
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 01:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 01:15 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:23 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:25 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:26 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:26 pm --> Unable to load the requested class: Ckeditor
+ERROR - 01/07/2017 01:28 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 01:58 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 01:58 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 01:58 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 01:29 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 01:29 pm --> Unable to load the requested class: CkFinder
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 02:00 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 02:01 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 02:01 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 03:07 am --> 404 Page Not Found: Http:/democarol.com
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:11 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:22 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:30 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/img
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:31 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 10
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 10
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 14
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 14
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 19
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 19
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 27
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 27
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 31
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 31
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 35
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 35
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 42
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 42
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 43
+ERROR - 01/07/2017 03:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/edit_page.php 43
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:39 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 03:47 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:41 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:45 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:48 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:54 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:02 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:02 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:02 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:17 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:21 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:24 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 04:55 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/services/application/views/admin/pages/manage_pages.php 70
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:25 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:26 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:34 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:42 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 05:46 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:00 am --> 404 Page Not Found: Images/logo_admin.png
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/logo-copy.png
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/logo-copy.png
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/logo-copy.png
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:08 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:09 am --> 404 Page Not Found: Images/logo-copy.png
+ERROR - 01/07/2017 06:11 am --> 404 Page Not Found: Images/logo-copy.png
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: ManagePost/index
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: ManagePost/index
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:18 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Css/auto_select
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/docsupport
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:21 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:26 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:35 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:52 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:54 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:56 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 06:59 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 07:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:03 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:03 am --> 404 Page Not Found: Images/photos
+ERROR - 01/07/2017 07:04 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 07:04 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 01/07/2017 07:09 am --> 404 Page Not Found: Images/photos

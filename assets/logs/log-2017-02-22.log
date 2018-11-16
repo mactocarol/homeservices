@@ -1,0 +1,515 @@
+ERROR - 02/22/2017 12:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 12:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 01:13 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaik50@gmail.com
+ERROR - 02/22/2017 01:14 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ERROR - 02/22/2017 01:20 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ERROR - 02/22/2017 01:24 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ERROR - 02/22/2017 01:25 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ERROR - 02/22/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:102) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 02:46 pm --> Severity: Error --> Call to undefined method Common_model::getAllwherenew_try() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 102
+ERROR - 02/22/2017 02:49 pm --> Query error: Unknown column '$email' in 'where clause' - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = $email
+ORDER BY `id` ASC
+ERROR - 02/22/2017 02:49 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com
+ORDER BY `id` ASC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ORDER BY `id` ASC
+ERROR - 02/22/2017 02:51 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com
+ORDER BY `id` ASC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ORDER BY `id` ASC
+ERROR - 02/22/2017 03:01 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '.meghanaikcarol@gmail.com.'
+ORDER BY `id` ASC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE  = '.meghanaikcarol@gmail.com.'
+ORDER BY `id` ASC
+ERROR - 02/22/2017 03:32 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 03:32 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 02/22/2017 03:32 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 03:32 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 02/22/2017 03:02 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'meghanaikcarol@gmail.com'
+ORDER BY `id` ASC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE  = 'meghanaikcarol@gmail.com'
+ORDER BY `id` ASC
+ERROR - 02/22/2017 03:45 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:170) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 03:45 am --> Severity: Parsing Error --> syntax error, unexpected '('ai_category'' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 170
+ERROR - 02/22/2017 03:15 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 03:15 pm --> Severity: Notice --> Use of undefined constant id - assumed 'id' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 152
+ERROR - 02/22/2017 03:16 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 03:20 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 03:50 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 03:20 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 03:50 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 03:30 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 04:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 03:30 pm --> Severity: Notice --> Unknown: Skipping numeric key 0 Unknown 0
+ERROR - 02/22/2017 04:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:02 am --> 404 Page Not Found: front/Service/booking
+ERROR - 02/22/2017 04:03 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:170) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 04:03 am --> Severity: Parsing Error --> syntax error, unexpected '->getAllwher' /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 170
+ERROR - 02/22/2017 04:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 03:47 pm --> Query error: Unknown column 'cat_name' in 'field list' - Invalid query: SELECT `emailid`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_appointment_booking`
+WHERE id = 13
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/img
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/img
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:18 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 03:53 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 39
+ERROR - 02/22/2017 03:53 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:23 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:24 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:24 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:25 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:25 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:27 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:31 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:31 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:31 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:31 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:32 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:32 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:32 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:32 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:32 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:03 pm --> Query error: Unknown column 'cat_name' in 'field list' - Invalid query: SELECT `emailid`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `meta_title`, `meta_desc`
+FROM `ai_appointment_booking`
+WHERE id = 14
+ERROR - 02/22/2017 04:33 am --> 404 Page Not Found: front/Service/booking
+ERROR - 02/22/2017 04:33 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:23 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 04:55 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 04:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:58 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:106) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 04:58 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 106
+ERROR - 02/22/2017 04:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:28 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:29 pm --> Query error: Unknown column '$child_name' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = $child_name
+ERROR - 02/22/2017 04:29 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:29 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:158) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 05:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:30 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:30 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:158) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 05:01 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:31 pm --> Query error: Unknown column '$child_name' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = $child_name
+ERROR - 02/22/2017 04:31 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:158) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 04:32 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:32 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:158) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 04:33 pm --> Query error: Unknown column 'Pictures' in 'where clause' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE plan_subcat = Pictures-Shelves
+ERROR - 02/22/2017 04:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:158) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 05:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:04 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:12 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:43 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:162) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 04:43 pm --> Severity: Error --> Call to undefined method CI_DB_mysqli_driver::last_qurey() /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 162
+ERROR - 02/22/2017 05:13 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:13 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:14 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:17 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:51 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Pictures Shelves'' at line 3 - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_plan`
+WHERE  = 'Pictures Shelves'
+ERROR - 02/22/2017 05:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:24 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 04:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 04:58 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:29 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 04:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 04:59 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:03 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:03 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:03 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:04 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:04 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:04 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:05 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 7
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 9
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 10
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 42
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 118
+ERROR - 02/22/2017 05:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 124
+ERROR - 02/22/2017 05:05 pm --> Severity: Warning --> Invalid argument supplied for foreach() /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_price.php 127
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/img
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 05:36 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:12 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `id` DESC' at line 4 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = 
+ORDER BY `id` DESC
+ERROR - 02/22/2017 05:12 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com
+ORDER BY `id` DESC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ORDER BY `id` DESC
+ERROR - 02/22/2017 05:15 pm --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com
+ORDER BY `id` DESC' at line 3 - Invalid query: SELECT `id`, `emailid`
+FROM `ai_appointment_booking`
+WHERE emailid = meghanaikcarol@gmail.com
+ORDER BY `id` DESC
+ERROR - 02/22/2017 05:46 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:121) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/22/2017 05:46 am --> Severity: Parsing Error --> syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 121
+ERROR - 02/22/2017 05:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:32 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 23
+ERROR - 02/22/2017 05:33 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 23
+ERROR - 02/22/2017 06:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 23
+ERROR - 02/22/2017 06:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:36 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 23
+ERROR - 02/22/2017 06:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:10 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:40 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 30
+ERROR - 02/22/2017 06:10 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:11 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:13 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:14 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:14 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 37
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 37
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Undefined offset: 1 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 02/22/2017 05:45 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 02/22/2017 06:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:17 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:19 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 05:58 pm --> Query error: Unknown column 'plan_subcat' in 'field list' - Invalid query: SELECT `plan_subcat`, `plan_title`, `plan_select_frequency`, `extras_field`
+FROM `ai_appointment_booking`
+WHERE `plan_subcat` = 'Pictures Shelves'
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Undefined property: stdClass::$plan_select_frequency /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 23
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 30
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 31
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 37
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 38
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 02/22/2017 05:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 02/22/2017 06:29 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:29 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:31 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:35 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 181
+ERROR - 02/22/2017 06:35 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:05 pm --> Severity: Compile Error --> Cannot use [] for reading /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 181
+ERROR - 02/22/2017 06:36 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:38 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:11 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:12 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:12 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:13 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:43 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:13 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:43 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:13 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:43 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:13 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:14 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:14 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:15 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:15 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:15 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:16 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:16 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:16 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:16 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:17 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:17 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 06:22 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 183
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:53 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:25 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 18
+ERROR - 02/22/2017 06:55 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:56 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:57 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:58 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 07:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 07:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 07:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:48 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:48 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:51 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:51 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:21 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:22 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 54
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 54
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 55
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 55
+ERROR - 02/22/2017 07:22 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:22 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:53 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:53 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:23 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:55 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:56 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:26 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:56 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:56 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:26 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:57 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:57 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:27 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:58 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:28 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 06:59 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 06:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 02/22/2017 07:29 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 07:32 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 07:32 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 08:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:28 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/22/2017 11:29 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 11:33 pm --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 02/22/2017 11:48 pm --> 404 Page Not Found: Img/payment-strip.png

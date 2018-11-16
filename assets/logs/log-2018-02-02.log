@@ -1,0 +1,429 @@
+ERROR - 02/02/2018 11:06 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549789, '__ci_last_regenerate|i:1517549789;fb_1798431413741569_state|s:32:\"d93e6febb9c7f811dc035fb668535df7\";')
+ERROR - 02/02/2018 11:06 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:06 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549806, '__ci_last_regenerate|i:1517549806;fb_1798431413741569_state|s:32:\"ee88155c46d2ccec9dc7ece3d457c43c\";')
+ERROR - 02/02/2018 11:06 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:06 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549818, '__ci_last_regenerate|i:1517549818;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"52f522175bbb9866f0cdcc3d942f98d5\";')
+ERROR - 02/02/2018 11:06 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:07 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549830, '__ci_last_regenerate|i:1517549830;errorm|s:41:\"<div>* Your Postcode is NOT Matched</div>\";errorm_theme|s:3:\"red\";__ci_vars|a:2:{s:6:\"errorm\";s:3:\"new\";s:12:\"errorm_theme\";s:3:\"new\";}fb_1798431413741569_state|s:32:\"f8ae855dd99dd19306e738c9826f14ca\";')
+ERROR - 02/02/2018 11:07 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:07 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549860, '__ci_last_regenerate|i:1517549860;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:15:\"Office-cleaning\";')
+ERROR - 02/02/2018 11:07 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:07 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549860, '__ci_last_regenerate|i:1517549860;')
+ERROR - 02/02/2018 11:07 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:07 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549874, '__ci_last_regenerate|i:1517549874;fb_1798431413741569_state|s:32:\"7cbd4f56125620abdbe9f7fa6656d502\";')
+ERROR - 02/02/2018 11:07 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549880, '__ci_last_regenerate|i:1517549880;zipcode|s:5:\"77001\";parant_cat|s:8:\"Cleaning\";child_cat|s:15:\"Office-cleaning\";')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549881, '__ci_last_regenerate|i:1517549881;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549887, '__ci_last_regenerate|i:1517549887;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549903, '__ci_last_regenerate|i:1517549903;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549903, '__ci_last_regenerate|i:1517549903;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549903, '__ci_last_regenerate|i:1517549903;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549904, '__ci_last_regenerate|i:1517549903;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549904, '__ci_last_regenerate|i:1517549904;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549904, '__ci_last_regenerate|i:1517549904;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549904, '__ci_last_regenerate|i:1517549904;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549906, '__ci_last_regenerate|i:1517549906;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549906, '__ci_last_regenerate|i:1517549906;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:08 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549906, '__ci_last_regenerate|i:1517549906;')
+ERROR - 02/02/2018 11:08 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:09 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549966, '__ci_last_regenerate|i:1517549966;')
+ERROR - 02/02/2018 11:09 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:09 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517549973, '__ci_last_regenerate|i:1517549973;')
+ERROR - 02/02/2018 11:09 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 11:10 am --> Query error: Duplicate entry '8f8b252588171af64e53e9c52474324c0a489751' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('8f8b252588171af64e53e9c52474324c0a489751', '122.175.166.247', 1517550056, '__ci_last_regenerate|i:1517550056;')
+ERROR - 02/02/2018 11:10 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/02/2018 12:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:56 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:56 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:56 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 12:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Images/photos
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Images/photos
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Assets/js
+ERROR - 02/02/2018 01:10 am --> 404 Page Not Found: Images/photos
+ERROR - 02/02/2018 01:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:21 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:48 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:55 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:59 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 01:38 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 232
+ERROR - 02/02/2018 02:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 02:32 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:24 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:29 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:30 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:31 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:43 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:50 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:54 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:54 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:55 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:56 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:01 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 03:55 pm --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 835
+ERROR - 02/02/2018 04:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:44 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:46 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 04:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:13 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:14 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:17 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:35 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:36 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:37 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:38 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:51 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:52 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 05:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:16 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:28 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:33 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 06:58 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:00 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:02 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:03 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:04 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:19 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:20 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:22 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:22 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:23 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:25 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:37 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:39 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:44 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:44 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:47 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:48 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:49 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:50 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:52 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:53 pm --> 404 Page Not Found: Assets/front
+ERROR - 02/02/2018 11:55 pm --> 404 Page Not Found: Assets/front

@@ -1,0 +1,679 @@
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:34 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:06 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 12:40 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 12:40 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 12:40 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 12:40 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 12:40 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 06/23/2017 02:10 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:10 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:12 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:42 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 02:13 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:44 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 02:14 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:14 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:15 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 12:49 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:20 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:21 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:25 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:32 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:33 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:33 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 01:04 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 01:04 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 01:04 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 01:04 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 01:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 06/23/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:34 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:35 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:39 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:40 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 01:15 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 02:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:50 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 02:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 03:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:22 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 01:58 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:30 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 02:01 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 02:01 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 02:01 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 02:01 pm --> Severity: Notice --> Uninitialized string offset: 0 /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 170
+ERROR - 06/23/2017 02:01 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 06/23/2017 03:32 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 06/23/2017 03:34 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:34 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:35 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 03:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:41 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:41 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:41 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:41 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:47 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 03:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:50 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:50 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 06/23/2017 03:50 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:50 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:51 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:51 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:55 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:55 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:55 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:55 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:55 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 02:25 pm --> Severity: Notice --> Undefined index: vendors_choose_cat /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Vendors.php 25
+ERROR - 06/23/2017 02:25 pm --> Severity: Warning --> implode(): Invalid arguments passed /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Vendors.php 25
+ERROR - 06/23/2017 02:25 pm --> Query error: Column 'vendors_choose_cat' cannot be null - Invalid query: INSERT INTO `ai_vendors` (`company`, `vendor_firstname`, `vendor_lastname`, `vendor_email`, `vendors_choose_cat`, `vendor_status`) VALUES ('saa', 's', 'as', 'shiv32@gmail.com', NULL, 'inactive')
+ERROR - 06/23/2017 02:25 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 06/23/2017 03:57 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 03:58 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 04:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 04:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 04:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 04:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 04:00 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 04:05 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 04:05 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 06/23/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:02 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:17 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 05:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:53 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:57 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:58 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 06/23/2017 05:58 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 06/23/2017 05:58 am --> 404 Page Not Found: front/Service/without_plan
+ERROR - 06/23/2017 06:01 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 04:34 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:04 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:05 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:29 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:30 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:30 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:30 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:31 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:01 pm --> Severity: Notice --> Undefined variable: total /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 677
+ERROR - 06/23/2017 06:31 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:31 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:32 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:34 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:34 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:17 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:48 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:49 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:52 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:52 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:24 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:39 pm --> Severity: Notice --> Undefined property: stdClass::$first_stuff /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 675
+ERROR - 06/23/2017 07:11 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:42 pm --> Severity: 4096 --> Object of class stdClass could not be converted to string /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 671
+ERROR - 06/23/2017 07:12 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:13 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 05:43 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 07:15 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:16 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:17 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:17 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:17 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:18 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:38 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:39 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 06:09 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 07:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:40 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:42 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:43 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:45 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:50 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:51 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:52 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 06:23 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:54 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:11 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:11 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:52 pm --> Severity: Notice --> Undefined index: amt /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 995
+ERROR - 06/23/2017 06:52 pm --> Severity: Notice --> Undefined index: stripeToken /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 1000
+ERROR - 06/23/2017 08:22 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 06:52 pm --> Severity: Notice --> Undefined index: amt /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 995
+ERROR - 06/23/2017 06:52 pm --> Severity: Notice --> Undefined index: stripeToken /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 1000
+ERROR - 06/23/2017 08:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:23 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:34 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:06 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:36 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:37 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:41 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:11 pm --> Severity: Notice --> Undefined index: amt /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 995
+ERROR - 06/23/2017 07:11 pm --> Severity: Notice --> Undefined index: stripeToken /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 1000
+ERROR - 06/23/2017 08:41 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:41 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:11 pm --> Severity: Notice --> Undefined index: amt /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 995
+ERROR - 06/23/2017 07:11 pm --> Severity: Notice --> Undefined index: stripeToken /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 1000
+ERROR - 06/23/2017 08:41 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 08:42 am --> 404 Page Not Found: Assets/front
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 89
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 90
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 91
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 92
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Undefined variable: child_catname /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 93
+ERROR - 06/23/2017 07:14 pm --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/home.php 100
+ERROR - 06/23/2017 08:45 am --> 404 Page Not Found: Assets/front

@@ -1,0 +1,845 @@
+ERROR - 03/16/2017 01:27 am --> 404 Page Not Found: BlogDetails/index
+ERROR - 03/16/2017 02:04 am --> 404 Page Not Found: Vendors/index
+ERROR - 03/16/2017 02:31 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 02:31 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 99
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 100
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 101
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 102
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 114
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 115
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 116
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 117
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 128
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 129
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 130
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 131
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 99
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 100
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 101
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 102
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 114
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 115
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 116
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 117
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_hours /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 128
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$per_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 129
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$original_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 130
+ERROR - 03/16/2017 01:04 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/plan/manage_plan.php 131
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:43 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 02:43 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:44 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 02:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 03:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 03:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:08 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:08 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:28 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:28 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:29 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:29 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:37 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:37 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:56 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:56 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:57 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:57 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 04:58 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 04:58 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 05:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 05:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 05:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 05:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 05:12 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 05:12 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:19 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:49 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:20 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:20 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:50 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:20 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:51 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:51 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:51 pm --> Severity: Notice --> Undefined property: stdClass::$discount_price /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 05:21 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:24 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:25 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 26
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 27
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 28
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 32
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 33
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 34
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 43
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 44
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 45
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 49
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 50
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 51
+ERROR - 03/16/2017 05:25 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:25 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Undefined variable: total_price_six /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 255
+ERROR - 03/16/2017 05:25 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 03:55 pm --> Severity: Notice --> Undefined variable: total_price_six /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/booking_form.php 255
+ERROR - 03/16/2017 05:25 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:26 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:27 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:27 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:27 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:28 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:28 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:29 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:29 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:30 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:31 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:32 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:33 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 05:35 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 28
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 28
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 57
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 72
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 88
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 104
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 137
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 145
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 154
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 162
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 171
+ERROR - 03/16/2017 04:05 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/myaccount/profile.php 186
+ERROR - 03/16/2017 05:43 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/16/2017 04:15 pm --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 32
+ERROR - 03/16/2017 04:17 pm --> Severity: Notice --> Undefined variable: plan_for /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 38
+ERROR - 03/16/2017 04:17 pm --> Severity: Notice --> Undefined variable: first_plan_three /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 39
+ERROR - 03/16/2017 04:17 pm --> Severity: Notice --> Undefined variable: first_plan_six /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 40
+ERROR - 03/16/2017 04:17 pm --> Severity: Notice --> Undefined variable: first_plan_tweleve /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 41
+ERROR - 03/16/2017 04:17 pm --> Severity: Notice --> Undefined variable: plan_status /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php 42
+ERROR - 03/16/2017 04:17 pm --> Query error: Column 'plan_for' cannot be null - Invalid query: INSERT INTO `ai_plan` (`plan_title`, `plan_cat`, `plan_for`, `plan_three_month`, `plan_six_month`, `plan_twevele_month`, `plan_status`, `plan_date`) VALUES ('cleanrere', '34', NULL, NULL, NULL, NULL, NULL, '2017-03-16')
+ERROR - 03/16/2017 04:17 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Plan.php:27) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/16/2017 06:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:16 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:16 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:17 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:17 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:17 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:22 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:27 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:30 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:31 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:32 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:40 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:40 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:40 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:40 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:54 am --> 404 Page Not Found: EditCategories/index
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 06:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 06:59 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:01 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:12 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:12 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:25 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:28 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:29 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:32 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:33 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:33 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:33 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:33 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:35 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:36 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:36 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:37 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:37 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 06:10 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/16/2017 06:10 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 27
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:47 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 07:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 07:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:00 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Assets/img
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:01 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:07 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:12 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:13 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:24 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/16/2017 08:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Css/auto_select
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Css/auto_select
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:50 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Css/auto_select
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Css/auto_select
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Js/docsupport
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Assets/js
+ERROR - 03/16/2017 08:55 am --> 404 Page Not Found: Images/photos
+ERROR - 03/16/2017 09:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Vendorsassets/front
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Vendors/assets
+ERROR - 03/16/2017 09:06 am --> 404 Page Not Found: Vendors/assets

@@ -1,0 +1,15 @@
+ERROR - 02/12/2017 11:40 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:40 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:40 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:41 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:42 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:42 pm --> 404 Page Not Found: GetPrice/1
+ERROR - 02/12/2017 11:45 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:45 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:47 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:47 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:56 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/config/routes.php:121) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 02/12/2017 11:56 pm --> Severity: Parsing Error --> syntax error, unexpected ''front/login/active_account/$' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/config/routes.php 121
+ERROR - 02/12/2017 11:58 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:58 pm --> 404 Page Not Found: M_GetPrice/-
+ERROR - 02/12/2017 11:59 pm --> 404 Page Not Found: CheckPrice/Cleaning

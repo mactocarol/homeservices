@@ -1,0 +1,948 @@
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 12:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:07 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:07 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 01:08 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 01:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:21 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:21 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:27 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 01:53 am --> 404 Page Not Found: Assets/front
+ERROR - 03/21/2017 12:32 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490079759, '__ci_last_regenerate|i:1490079759;fb_1798431413741569_state|s:32:\"b5966d179417a0a48c5ea3ae2b7f2d9a\";')
+ERROR - 03/21/2017 12:32 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:32 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490079774, '__ci_last_regenerate|i:1490079774;fb_1798431413741569_state|s:32:\"4d4d610690f0554922871a83efbbf61e\";')
+ERROR - 03/21/2017 12:32 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079809, '__ci_last_regenerate|i:1490079809;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079809, '__ci_last_regenerate|i:1490079809;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079809, '__ci_last_regenerate|i:1490079809;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079810, '__ci_last_regenerate|i:1490079809;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079810, '__ci_last_regenerate|i:1490079810;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079810, '__ci_last_regenerate|i:1490079810;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079810, '__ci_last_regenerate|i:1490079810;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079811, '__ci_last_regenerate|i:1490079811;')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079811, '__ci_last_regenerate|i:1490079811;fb_1798431413741569_state|s:32:\"4b71aeb940f5ebe6a2328aa3dfbffef6\";')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490079814, '__ci_last_regenerate|i:1490079814;fb_1798431413741569_state|s:32:\"1241ad39a263651cc77264eb15fc4ba7\";')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:33 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079814, '__ci_last_regenerate|i:1490079814;fb_1798431413741569_state|s:32:\"e2be6ebc6a96c21e397c7059bba30a3f\";')
+ERROR - 03/21/2017 12:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:36 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079977, '__ci_last_regenerate|i:1490079977;fb_1798431413741569_state|s:32:\"5839b3fd8b5471068fb9dfe4124f7776\";')
+ERROR - 03/21/2017 12:36 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:36 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079982, '__ci_last_regenerate|i:1490079982;fb_1798431413741569_state|s:32:\"da49cf07e48f9675cfbf2c655df18eb9\";')
+ERROR - 03/21/2017 12:36 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:36 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079982, '__ci_last_regenerate|i:1490079982;fb_1798431413741569_state|s:32:\"f6b72c4973db4c700e29ef209495f1d6\";')
+ERROR - 03/21/2017 12:36 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:36 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490079982, '__ci_last_regenerate|i:1490079982;fb_1798431413741569_state|s:32:\"73397f34083bc44f0909e0a17548a7dc\";')
+ERROR - 03/21/2017 12:36 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:37 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080052, '__ci_last_regenerate|i:1490080052;fb_1798431413741569_state|s:32:\"b021d4c9cc2964676311f5d5f5a95eb9\";')
+ERROR - 03/21/2017 12:37 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:41 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080309, '__ci_last_regenerate|i:1490080309;fb_1798431413741569_state|s:32:\"0e43117e08d637f6888ed151e1dcda33\";')
+ERROR - 03/21/2017 12:41 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:43 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080386, '__ci_last_regenerate|i:1490080386;fb_1798431413741569_state|s:32:\"e7b41e34c8ed2533eda5fe160768cc70\";')
+ERROR - 03/21/2017 12:43 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:44 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080468, '__ci_last_regenerate|i:1490080468;fb_1798431413741569_state|s:32:\"ffab280ce91e429a0e97638b943f2adc\";')
+ERROR - 03/21/2017 12:44 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:44 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080480, '__ci_last_regenerate|i:1490080480;fb_1798431413741569_state|s:32:\"d2f8009802b531aa443b5791a681597a\";')
+ERROR - 03/21/2017 12:44 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:45 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080521, '__ci_last_regenerate|i:1490080521;fb_1798431413741569_state|s:32:\"184fae7b6ba2ab4750d8d06bfdf4dcad\";')
+ERROR - 03/21/2017 12:45 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:45 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080529, '__ci_last_regenerate|i:1490080529;fb_1798431413741569_state|s:32:\"ba7f59070a4aca788744b37427da06ea\";')
+ERROR - 03/21/2017 12:45 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080803, '__ci_last_regenerate|i:1490080803;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080805, '__ci_last_regenerate|i:1490080805;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080806, '__ci_last_regenerate|i:1490080806;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080806, '__ci_last_regenerate|i:1490080806;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080807, '__ci_last_regenerate|i:1490080807;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080808, '__ci_last_regenerate|i:1490080808;')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 12:50 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490080829, '__ci_last_regenerate|i:1490080829;fb_1798431413741569_state|s:32:\"861d727fda30086f672488e742765634\";')
+ERROR - 03/21/2017 12:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:05 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490081700, '__ci_last_regenerate|i:1490081700;')
+ERROR - 03/21/2017 01:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:05 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490081702, '__ci_last_regenerate|i:1490081702;fb_1798431413741569_state|s:32:\"0c6cae2c5934a9df68b2de1bd6e6072a\";')
+ERROR - 03/21/2017 01:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:35 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 01:05 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490081733, '__ci_last_regenerate|i:1490081733;fb_1798431413741569_state|s:32:\"7f29f15363ce2511180f729722545054\";')
+ERROR - 03/21/2017 01:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:06 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490081763, '__ci_last_regenerate|i:1490081763;fb_1798431413741569_state|s:32:\"ba86998bbb28d1e54764cbf6100e5855\";')
+ERROR - 03/21/2017 01:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/21/2017 01:07 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490081822, '__ci_last_regenerate|i:1490081822;fb_1798431413741569_state|s:32:\"339048c22b0ed0fccd118d81d22b4815\";')
+ERROR - 03/21/2017 01:07 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:07 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490081856, '__ci_last_regenerate|i:1490081856;fb_1798431413741569_state|s:32:\"8aa5a3373ad5d4541b45d2e619891601\";')
+ERROR - 03/21/2017 01:07 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:07 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490081866, '__ci_last_regenerate|i:1490081866;fb_1798431413741569_state|s:32:\"f279165038f36bc590f06bf997cb579c\";')
+ERROR - 03/21/2017 01:07 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:09 pm --> Query error: Duplicate entry '1d3ea40a7d7b5f48341fba41f9f62f8024c65da7' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('1d3ea40a7d7b5f48341fba41f9f62f8024c65da7', '122.175.128.104', 1490081940, '__ci_last_regenerate|i:1490081940;fb_1798431413741569_state|s:32:\"58550e1e5d39a7ed07f9b152fef8145b\";')
+ERROR - 03/21/2017 01:09 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:11 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490082080, '__ci_last_regenerate|i:1490082080;fb_1798431413741569_state|s:32:\"3496c1f93052290f8006896ecfdcf504\";')
+ERROR - 03/21/2017 01:11 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 01:11 pm --> Query error: Duplicate entry 'd812763e1d453b6e58f63a4bf8cd36891fab17cd' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d812763e1d453b6e58f63a4bf8cd36891fab17cd', '122.175.128.104', 1490082094, '__ci_last_regenerate|i:1490082094;fb_1798431413741569_state|s:32:\"b5d854b1bb6a4a3870c40aa27af39f84\";')
+ERROR - 03/21/2017 01:11 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 02:48 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 02:50 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:50 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 02:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 02:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 02:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 02:59 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 03:01 am --> 404 Page Not Found: Assets/front
+ERROR - 03/21/2017 03:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 03:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 03:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490087777, '__ci_last_regenerate|i:1490087777;fb_1798431413741569_state|s:32:\"51f5f2ec5287b3dbbfa48cb3a02a9cf4\";')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490087784, '__ci_last_regenerate|i:1490087784;')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry 'fcc8d9da45c703d7a080b6b9c8f900bd727a8deb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('fcc8d9da45c703d7a080b6b9c8f900bd727a8deb', '122.175.239.21', 1490087805, '__ci_last_regenerate|i:1490087805;fb_1798431413741569_state|s:32:\"d6f181e17d52511a6c7814cd86f38bfa\";')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry 'fcc8d9da45c703d7a080b6b9c8f900bd727a8deb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('fcc8d9da45c703d7a080b6b9c8f900bd727a8deb', '122.175.239.21', 1490087810, '__ci_last_regenerate|i:1490087810;')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry 'fcc8d9da45c703d7a080b6b9c8f900bd727a8deb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('fcc8d9da45c703d7a080b6b9c8f900bd727a8deb', '122.175.239.21', 1490087811, '__ci_last_regenerate|i:1490087811;')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry 'fcc8d9da45c703d7a080b6b9c8f900bd727a8deb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('fcc8d9da45c703d7a080b6b9c8f900bd727a8deb', '122.175.239.21', 1490087812, '__ci_last_regenerate|i:1490087812;')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:46 pm --> Query error: Duplicate entry 'fcc8d9da45c703d7a080b6b9c8f900bd727a8deb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('fcc8d9da45c703d7a080b6b9c8f900bd727a8deb', '122.175.239.21', 1490087812, '__ci_last_regenerate|i:1490087812;')
+ERROR - 03/21/2017 02:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:13) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:47 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490087827, '__ci_last_regenerate|i:1490087827;fb_1798431413741569_state|s:32:\"96be7fc71b44265689d5fc9bdfc8dbd5\";')
+ERROR - 03/21/2017 02:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:47 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490087833, '__ci_last_regenerate|i:1490087833;fb_1798431413741569_state|s:32:\"7b7445b8fff04c464937b36c360f0b09\";')
+ERROR - 03/21/2017 02:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:47 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490087841, '__ci_last_regenerate|i:1490087841;fb_1798431413741569_state|s:32:\"4c425fbd9b5c5414a2c6f95533276b40\";')
+ERROR - 03/21/2017 02:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:50 pm --> Query error: Duplicate entry '6904c69298c897ffa4b8dcd772280f50fffc93ab' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('6904c69298c897ffa4b8dcd772280f50fffc93ab', '122.175.239.21', 1490088051, '__ci_last_regenerate|i:1490088051;fb_1798431413741569_state|s:32:\"3ef7575690f45eb52a30158289e6e684\";')
+ERROR - 03/21/2017 02:50 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:52 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088153, '__ci_last_regenerate|i:1490088153;fb_1798431413741569_state|s:32:\"39dd30d6b79c3fe84bf94b840d3ff8c5\";')
+ERROR - 03/21/2017 02:52 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:52 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088171, '__ci_last_regenerate|i:1490088171;fb_1798431413741569_state|s:32:\"7b6baff6c1b60b965a7d27bce18de18d\";')
+ERROR - 03/21/2017 02:52 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:53 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088195, '__ci_last_regenerate|i:1490088195;fb_1798431413741569_state|s:32:\"ff05f3d87ca8190bc17601957bab20c9\";')
+ERROR - 03/21/2017 02:53 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 02:59 pm --> Query error: Duplicate entry '0646a30efbc2a82a0a1dbe033fcede5405a7a897' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('0646a30efbc2a82a0a1dbe033fcede5405a7a897', '122.175.239.21', 1490088553, '__ci_last_regenerate|i:1490088553;fb_1798431413741569_state|s:32:\"0d942b04c3871aaa3509beb769ee5732\";')
+ERROR - 03/21/2017 02:59 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 03:06 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088979, '__ci_last_regenerate|i:1490088979;')
+ERROR - 03/21/2017 03:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 03:06 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088980, '__ci_last_regenerate|i:1490088980;')
+ERROR - 03/21/2017 03:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 03:06 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088984, '__ci_last_regenerate|i:1490088984;')
+ERROR - 03/21/2017 03:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 03:06 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088986, '__ci_last_regenerate|i:1490088986;')
+ERROR - 03/21/2017 03:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 04:36 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 03:06 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.239.21', 1490088987, '__ci_last_regenerate|i:1490088987;fb_1798431413741569_state|s:32:\"7d0f18592a7c2d56f526b9e19c1f3a96\";')
+ERROR - 03/21/2017 03:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 04:46 am --> 404 Page Not Found: Assets/img
+ERROR - 03/21/2017 04:46 am --> 404 Page Not Found: Assets/img
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 04:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 03:33 pm --> Query error: Duplicate entry 'c431b11cbf1c248734404edb065995b1899bbc2d' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c431b11cbf1c248734404edb065995b1899bbc2d', '122.175.237.251', 1490090598, '__ci_last_regenerate|i:1490090598;fb_1798431413741569_state|s:32:\"6c6a977f231aa5c3c69d869d162d5b8c\";')
+ERROR - 03/21/2017 03:33 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:17 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:30 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:30 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:47 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:49 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:57 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 05:58 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 05:58 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:08 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:08 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:09 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:10 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:16 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:16 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:20 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:22 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/21/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 31
+ERROR - 03/21/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/21/2017 04:52 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 31
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 31
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 31
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 3
+ERROR - 03/21/2017 04:53 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/single_service.php 31
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Undefined variable: rec /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 04:54 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/admin/categories/add_categories.php 55
+ERROR - 03/21/2017 06:24 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:24 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:28 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:29 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:29 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:31 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:32 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:32 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:34 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:38 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:41 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:46 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:48 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:51 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 06:56 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:06 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:12 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:12 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 05:48 pm --> Severity: Notice --> Undefined index: professionals /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 101
+ERROR - 03/21/2017 05:48 pm --> Severity: Notice --> Undefined index: hours /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 102
+ERROR - 03/21/2017 05:48 pm --> Severity: Notice --> Undefined index: price /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 103
+ERROR - 03/21/2017 05:48 pm --> Severity: Notice --> Undefined index: unit /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 105
+ERROR - 03/21/2017 05:48 pm --> Severity: Notice --> Undefined variable: feedata /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/Categories.php 115
+ERROR - 03/21/2017 05:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Exceptions.php:271) /home2/carolhhp/public_html/democarol.com/homeservices/system/helpers/url_helper.php 564
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:19 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:48 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:49 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:49 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:57 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 07:58 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:00 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:00 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:03 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:03 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:05 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:08 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:08 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:12 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:13 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:13 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:13 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:16 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:16 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:46 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102199, '__ci_last_regenerate|i:1490102199;fb_1798431413741569_state|s:32:\"d630549a254fd1db5806c2ce1334cd38\";')
+ERROR - 03/21/2017 06:46 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 06:47 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102253, '__ci_last_regenerate|i:1490102253;fb_1798431413741569_state|s:32:\"9bbec4a4408ae28beb2b909599e37d29\";')
+ERROR - 03/21/2017 06:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 06:47 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102272, '__ci_last_regenerate|i:1490102272;fb_1798431413741569_state|s:32:\"a313149aa36e0aa5a3b18fcbe3878d8d\";')
+ERROR - 03/21/2017 06:47 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:48 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102327, '__ci_last_regenerate|i:1490102327;fb_1798431413741569_state|s:32:\"9b1d7797e1fcb01be41b92112af0644e\";')
+ERROR - 03/21/2017 06:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 06:48 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102333, '__ci_last_regenerate|i:1490102333;fb_1798431413741569_state|s:32:\"cab062e813f3f48acefc50b1dc06c8d9\";')
+ERROR - 03/21/2017 06:48 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:18 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:19 am --> 404 Page Not Found: Services/index
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:21 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 06:52 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102570, '__ci_last_regenerate|i:1490102570;fb_1798431413741569_state|s:32:\"c719e9416ec5c435219fbe1edd66c94d\";')
+ERROR - 03/21/2017 06:52 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:23 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 06:53 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102636, '__ci_last_regenerate|i:1490102636;fb_1798431413741569_state|s:32:\"ed30415881386f9ef5696b7c0e9be752\";')
+ERROR - 03/21/2017 06:53 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 06:54 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490102687, '__ci_last_regenerate|i:1490102687;fb_1798431413741569_state|s:32:\"551b7d710df465c17aae770c0227fdc0\";')
+ERROR - 03/21/2017 06:54 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 08:26 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:26 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 07:04 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490103250, '__ci_last_regenerate|i:1490103250;fb_1798431413741569_state|s:32:\"a2c8a4f808f38e172e5e71be0729bb65\";')
+ERROR - 03/21/2017 07:04 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 07:05 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490103301, '__ci_last_regenerate|i:1490103301;fb_1798431413741569_state|s:32:\"341267702fb94e0d5b748d3ae8470b9c\";')
+ERROR - 03/21/2017 07:05 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 07:06 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490103373, '__ci_last_regenerate|i:1490103373;fb_1798431413741569_state|s:32:\"179edbacd4532d3178366994d11af5c3\";')
+ERROR - 03/21/2017 07:06 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 07:13 pm --> Query error: Duplicate entry '87ef33b4d8a626376f10819e4794473c65c2548a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('87ef33b4d8a626376f10819e4794473c65c2548a', '122.175.208.24', 1490103782, '__ci_last_regenerate|i:1490103782;fb_1798431413741569_state|s:32:\"0f0cea2bc0c427f0584a351107cdacc2\";')
+ERROR - 03/21/2017 07:13 pm --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Output.php:528) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/21/2017 07:20 pm --> Severity: Notice --> Undefined variable: getname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 106
+ERROR - 03/21/2017 08:51 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 08:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 07:25 pm --> Severity: Notice --> Undefined variable: getname /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 106
+ERROR - 03/21/2017 07:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/home_improment.php 8
+ERROR - 03/21/2017 07:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/home_improment.php 8
+ERROR - 03/21/2017 07:35 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/home_improment.php 10
+ERROR - 03/21/2017 07:36 pm --> Severity: Notice --> Undefined index: get_single_record /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 110
+ERROR - 03/21/2017 09:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 09:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 09:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Assets/js
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Images/photos
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/21/2017 09:15 am --> 404 Page Not Found: Js/advanced-datatable

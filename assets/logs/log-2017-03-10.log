@@ -1,0 +1,357 @@
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/10/2017 12:43 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/10/2017 12:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 12:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/10/2017 12:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/10/2017 12:47 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 12:47 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/10/2017 12:53 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/10/2017 12:54 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 12:54 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:02 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:02 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:03 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:11 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:11 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:12 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:12 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:12 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:12 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:13 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:13 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:13 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:13 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:13 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:13 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:14 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:14 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:14 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:88) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 01:14 am --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 88
+ERROR - 03/10/2017 01:17 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:17 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 12:50 pm --> Query error: Unknown column 'cat_attribute' in 'field list' - Invalid query: SELECT `cat_attribute`
+FROM `ai_appointment_booking`
+WHERE 0 = 'cat_attribute'
+ LIMIT 1
+ERROR - 03/10/2017 12:50 pm --> Query error: Unknown column 'cat_attribute' in 'field list' - Invalid query: SELECT `cat_attribute`
+FROM `ai_appointment_booking`
+WHERE 0 = 'cat_attribute'
+ LIMIT 1
+ERROR - 03/10/2017 01:20 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:20 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:22 am --> 404 Page Not Found: Assets/img
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 01:23 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 12:54 pm --> Severity: Notice --> Undefined property: stdClass::$cat_attribute /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 153
+ERROR - 03/10/2017 12:55 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 153
+ERROR - 03/10/2017 12:56 pm --> Severity: Error --> Cannot use object of type stdClass as array /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 153
+ERROR - 03/10/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 154
+ERROR - 03/10/2017 12:59 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 154
+ERROR - 03/10/2017 01:32 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:32 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:03 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: front/Imgwindowpng/index
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:34 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:35 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 160
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 161
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Undefined offset: 2 /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:06 pm --> Severity: Notice --> Trying to get property of non-object /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/without_plan_booking.php 162
+ERROR - 03/10/2017 01:36 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:36 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:36 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:36 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:37 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:37 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 01:40 am --> 404 Page Not Found: front/Service/general_booking
+ERROR - 03/10/2017 01:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:42 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:42 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:43 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:43 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:45 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:46 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:46 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:47 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 01:47 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 01:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:38 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:38 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:40 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:40 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:41 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:42 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:42 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:44 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:45 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:46 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:46 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:47 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:47 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:47 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:48 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:49 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:384) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 02:49 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 384
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:49 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 02:57 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 02:57 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:00 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:01 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 03:01 am --> Severity: Parsing Error --> syntax error, unexpected ''ai_appoin' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/10/2017 03:02 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:109) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 03:02 am --> Severity: Parsing Error --> syntax error, unexpected ''ai_appoin' (T_ENCAPSED_AND_WHITESPACE) /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 109
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:03 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:03 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:03 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:03 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:326) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 03:03 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 326
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:04 am --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php:326) /home2/carolhhp/public_html/democarol.com/homeservices/system/core/Common.php 573
+ERROR - 03/10/2017 03:04 am --> Severity: Parsing Error --> syntax error, unexpected end of file /home2/carolhhp/public_html/democarol.com/homeservices/application/controllers/front/Service.php 326
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:04 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:05 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:05 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:06 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:06 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:07 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:08 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:09 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:10 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:11 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:11 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:13 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:13 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:15 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:16 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:17 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:18 am --> 404 Page Not Found: MY%20LINK%20TO%20JQUERY/index
+ERROR - 03/10/2017 03:19 am --> 404 Page Not Found: Img/payment-strip.png
+ERROR - 03/10/2017 03:37 am --> 404 Page Not Found: GeneralBooking/index
+ERROR - 03/10/2017 03:37 am --> 404 Page Not Found: GeneralBooking/index
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 04:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/10/2017 07:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 07:20 am --> 404 Page Not Found: Images/photos
+ERROR - 03/10/2017 07:20 am --> 404 Page Not Found: Assets/js
+ERROR - 03/10/2017 07:20 am --> 404 Page Not Found: Images/photos

@@ -1,0 +1,90 @@
+[18-Jun-2017 21:27:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(157): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(55): Hybrid_Endpoint->processAuthDone()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(157): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(55): Hybrid_E in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[19-Jun-2017 18:37:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_ in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[19-Jun-2017 18:39:40 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_ in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[20-Jun-2017 17:59:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:125
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#3 {main}
+  thrown in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 125
+[18-Aug-2017 14:17:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_ in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[20-Aug-2017 10:07:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_ in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[20-Aug-2017 19:14:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/carolwgw/public_html/alagha.ae/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php(51): Hybrid_ in /home/carolwgw/public_html/alagha.ae/hybridauth/Hybrid/Endpoint.php on line 217
+[29-Aug-2017 18:54:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/index.php(15): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with message 'Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly.' in /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php:217
+Stack trace:
+#0 /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endp in /home2/carolhhp/public_html/democarol.com/homeservices/hybridauth/Hybrid/Endpoint.php on line 217

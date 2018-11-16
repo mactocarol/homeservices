@@ -1,0 +1,475 @@
+ERROR - 03/28/2018 01:59 am --> Query error: Duplicate entry '9e9bea4beda61881a57e8dfeff0b9952452f66d2' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('9e9bea4beda61881a57e8dfeff0b9952452f66d2', '180.76.15.31', 1522182556, '__ci_last_regenerate|i:1522182556;fb_1798431413741569_state|s:32:\"4a397a6b35979f85065e0831fb08053d\";')
+ERROR - 03/28/2018 01:59 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 03/28/2018 06:45 am --> Query error: Duplicate entry 'd712f64a8f1aa9b7b4a0c3b931e745db56800287' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('d712f64a8f1aa9b7b4a0c3b931e745db56800287', '180.76.15.8', 1522199753, '__ci_last_regenerate|i:1522199753;fb_1798431413741569_state|s:32:\"00186ecf4c36dbafec25c04ace5e8ca5\";')
+ERROR - 03/28/2018 06:45 am --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 03:32 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:32 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 05:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 03:32 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:32 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 03:38 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:38 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 03:42 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:42 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 03:43 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:43 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 03:44 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:44 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 03:44 pm --> Query error: Unknown column 'extra' in 'field list' - Invalid query: SELECT `cat_id`, `cat_name`, `cat_picture`, `cat_parent_id`, `cat_desc`, `is_active`, `cat_attribute`, `req_message`, `stuff`, `extra`
+FROM `ai_category`
+WHERE `cat_name` = 'Home Cleaning'
+ LIMIT 1
+ERROR - 03/28/2018 03:44 pm --> Severity: Error --> Call to a member function num_rows() on boolean /home2/carolhhp/public_html/democarol.com/homeservices/application/models/Common_model.php 819
+ERROR - 03/28/2018 05:34 am --> 404 Page Not Found: Assets/css
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Assets/css
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:38 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:42 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:13 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:43 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:44 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:45 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:46 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 05:48 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 06:01 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:01 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:02 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:03 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:04 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:05 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:05 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:05 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:06 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:07 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:38 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:08 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:38 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:09 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:09 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:09 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:09 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:40 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:10 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:11 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:12 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:13 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/advanced-datatable
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/dynamic_table_init.js
+ERROR - 03/28/2018 06:14 am --> 404 Page Not Found: Js/jquery.dataTables.min.js
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:15 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:18 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:19 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:20 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:21 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:22 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:53 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:23 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 04:54 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:24 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:25 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:26 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:27 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:31 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:36 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:06 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:37 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:38 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 05:08 pm --> Severity: Warning --> Division by zero /home2/carolhhp/public_html/democarol.com/homeservices/application/views/front/services/get_check_price.php 47
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:39 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:40 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:41 am --> 404 Page Not Found: Assets/front
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Images/loading_spinner.gif
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/css
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/css
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:42 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:43 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:43 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:52 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:52 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:53 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:53 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:54 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:54 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:58 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:58 am --> 404 Page Not Found: Images/photos
+ERROR - 03/28/2018 06:59 am --> 404 Page Not Found: Assets/js
+ERROR - 03/28/2018 06:59 am --> 404 Page Not Found: Images/photos

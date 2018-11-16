@@ -1,0 +1,28 @@
+ERROR - 02/16/2018 01:00 pm --> Query error: Duplicate entry '7d484ce31154e05280a33d4862c58cb6598a7742' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('7d484ce31154e05280a33d4862c58cb6598a7742', '180.76.15.12', 1518766209, '__ci_last_regenerate|i:1518766209;fb_1798431413741569_state|s:32:\"34db16296d93b50c6201dda0cf5a262f\";')
+ERROR - 02/16/2018 01:00 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
+ERROR - 02/16/2018 02:05 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:06 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 02:08 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:09 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:39 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:41 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:42 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:45 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:47 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 03:49 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 04:25 am --> 404 Page Not Found: Assets/front
+ERROR - 02/16/2018 11:36 pm --> Query error: Duplicate entry 'c41534c7d93a30e9d6ce1064aac6cec9ff802c2a' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('c41534c7d93a30e9d6ce1064aac6cec9ff802c2a', '180.76.15.156', 1518804364, '__ci_last_regenerate|i:1518804364;fb_1798431413741569_state|s:32:\"3fa7bfb2b8b7141ab24aa1c6306e1823\";')
+ERROR - 02/16/2018 11:36 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0

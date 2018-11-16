@@ -1,0 +1,12 @@
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: front/Service/badroom_plan
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:02 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 04:08 am --> 404 Page Not Found: Assets/front
+ERROR - 01/15/2018 07:42 pm --> Query error: Duplicate entry '38165ef641ce4ab38d6b396ed5db71cfc2f9afcb' for key 'PRIMARY' - Invalid query: INSERT INTO `ai_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('38165ef641ce4ab38d6b396ed5db71cfc2f9afcb', '180.76.15.5', 1516025579, '__ci_last_regenerate|i:1516025579;fb_1798431413741569_state|s:32:\"57785c9abdf2d17bef21c121c6e88729\";')
+ERROR - 01/15/2018 07:42 pm --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (sessions) Unknown 0
